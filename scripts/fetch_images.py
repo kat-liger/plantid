@@ -106,8 +106,8 @@ def file_info(title):
         "format": "json",
         "titles": title if title.startswith("File:") else "File:" + title,
         "prop": "imageinfo",
-        "iiprop": "url|extmetadata|mime|size",
-        "iiextmetadatafilter": "Artist|LicenseShortName|LicenseUrl|Credit",
+        "iiprop": "url|user|extmetadata|mime|size",
+        "iiextmetadatafilter": "Artist|Attribution|LicenseShortName|LicenseUrl|Credit",
     }
     pages = list(api_get(params).get("query", {}).get("pages", {}).values())
     return pages[0] if pages and "imageinfo" in pages[0] else None
@@ -145,7 +145,10 @@ def entry_from_page(page, part):
         # search hit through iiurlwidth trips Commons' rate limit.
         "thumbUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/"
         + quote(page["title"].replace("File:", "", 1)) + f"&width={THUMB_WIDTH}",
-        "author": strip_html(meta.get("Artist", {}).get("value", "")) or "Unknown",
+        "author": strip_html(meta.get("Artist", {}).get("value", ""))
+        or strip_html(meta.get("Attribution", {}).get("value", ""))
+        or info.get("user")
+        or "Unknown",
         "license": strip_html(meta.get("LicenseShortName", {}).get("value", "")) or "See source",
         "licenseUrl": strip_html(meta.get("LicenseUrl", {}).get("value", "")),
     }

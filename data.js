@@ -1422,7 +1422,7 @@ window.PLANT_DATA = {
     "part": "Leaves",
     "title": "Heteromeles arbutifolia 2.jpg",
     "pageUrl": "https://commons.wikimedia.org/wiki/File:Heteromeles_arbutifolia_2.jpg",
-    "author": "Unknown",
+    "author": "Stan Shebs",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "file": "heteromeles-arbutifolia/03-leaves.jpg"
@@ -1451,7 +1451,7 @@ window.PLANT_DATA = {
     "part": "Leaves",
     "title": "Baccharis pilularis.jpg",
     "pageUrl": "https://commons.wikimedia.org/wiki/File:Baccharis_pilularis.jpg",
-    "author": "Unknown",
+    "author": "U.S. National Park Service",
     "license": "Public domain",
     "licenseUrl": "",
     "file": "baccharis-pilularis/02-leaves.jpg"
@@ -1480,7 +1480,7 @@ window.PLANT_DATA = {
     "part": "Leaves",
     "title": "Vitis californica at Caswell Memorial State Park spring leaves.jpg",
     "pageUrl": "https://commons.wikimedia.org/wiki/File:Vitis_californica_at_Caswell_Memorial_State_Park_spring_leaves.jpg",
-    "author": "Unknown",
+    "author": "KP Botany",
     "license": "Public domain",
     "licenseUrl": "",
     "file": "vitis-californica-rogers-red/01-leaves.jpg"
@@ -1498,7 +1498,7 @@ window.PLANT_DATA = {
     "part": "Habit",
     "title": "Vitis californica with grapes.jpg",
     "pageUrl": "https://commons.wikimedia.org/wiki/File:Vitis_californica_with_grapes.jpg",
-    "author": "Unknown",
+    "author": "KP Botany",
     "license": "Public domain",
     "licenseUrl": "",
     "file": "vitis-californica-rogers-red/03-habit.jpg"
@@ -1887,7 +1887,7 @@ window.PLANT_DATA = {
     "part": "Flowers",
     "title": "Salvia clevelandii - jim sage - desc-flowers - status-rare.jpg",
     "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_clevelandii_-_jim_sage_-_desc-flowers_-_status-rare.jpg",
-    "author": "Unknown",
+    "author": "Phyzome",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "file": "salvia-pozo-blue/01-flowers.jpg"
