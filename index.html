@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Plant ID Practice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Plant ID Practice</h1>
+    <div class="topbar-right">
+      <span id="score" class="score" title="Plants with both names correct">0 / 0 learned</span>
+      <button id="shuffle" class="btn btn-ghost" type="button" title="Shuffle the order">Shuffle</button>
+      <button id="reset" class="btn btn-ghost" type="button" title="Clear all your answers">Reset</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="gallery" aria-label="Plant photos">
+      <div id="images" class="image-grid"></div>
+    </section>
+
+    <aside class="panel">
+      <div class="progress"><span id="counter">Plant 1 of 29</span></div>
+
+      <div class="field">
+        <label for="botanical">Botanical name</label>
+        <div class="input-row">
+          <input id="botanical" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="e.g. Genus species">
+          <span class="check" id="botanical-check" aria-live="polite"></span>
+          <button class="btn btn-reveal" type="button" data-reveal="botanical">Show Name</button>
+        </div>
+        <div class="hint" id="botanical-hint"></div>
+        <div class="answer botanical-answer" id="botanical-answer"></div>
+      </div>
+
+      <div class="field">
+        <label for="common">Common name</label>
+        <div class="input-row">
+          <input id="common" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="e.g. Japanese maple">
+          <span class="check" id="common-check" aria-live="polite"></span>
+          <button class="btn btn-reveal" type="button" data-reveal="common">Show Name</button>
+        </div>
+        <div class="hint" id="common-hint"></div>
+        <div class="answer" id="common-answer"></div>
+      </div>
+
+      <p class="note" id="note"></p>
+
+      <p class="tips">Press <kbd>Enter</kbd> to move to the next field, or to the next plant once both are correct.</p>
+    </aside>
+  </main>
+
+  <footer class="navbar">
+    <button id="prev" class="btn btn-nav" type="button">&larr; Previous</button>
+    <button id="next" class="btn btn-nav btn-primary" type="button">Next &rarr;</button>
+  </footer>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <img id="lightbox-img" alt="Enlarged plant photo">
+    <div id="lightbox-caption" class="lightbox-caption"></div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

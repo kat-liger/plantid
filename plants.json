@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "acer-palmatum",
+    "botanical": "Acer palmatum",
+    "common": "Japanese maple",
+    "botanicalAccept": [],
+    "commonAccept": [],
+    "search": {
+      "names": [
+        "Acer palmatum"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Leaves",
+          "title": "Leaves of Acer palmatum (2005).jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Acer palmatum flowers 001.JPG"
+        },
+        {
+          "part": "Bark",
+          "title": "Acer palmatum bark 1 LR.jpg"
+        },
+        {
+          "part": "Fruit",
+          "title": "Acer palmatum subsp. amoenum in Hackfalls Arboretum (4).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Hortus Haren d.j.b 20.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heuchera",
+    "botanical": "Heuchera sp.",
+    "common": "coral bells",
+    "botanicalAccept": [
+      "heuchera",
+      "heuchera sp",
+      "heuchera spp",
+      "heuchera species"
+    ],
+    "commonAccept": [
+      "coralbells",
+      "alumroot",
+      "coral bell"
+    ],
+    "search": {
+      "names": [
+        "Heuchera sanguinea",
+        "Heuchera micrantha",
+        "Heuchera"
+      ],
+      "parts": {
+        "Flowers": "flowers",
+        "Leaves": "leaves",
+        "Habit": "plant",
+        "Close-up": "inflorescence"
+      }
+    }
+  },
+  {
+    "id": "arbutus-unedo",
+    "botanical": "Arbutus unedo",
+    "common": "strawberry tree",
+    "botanicalAccept": [],
+    "commonAccept": [],
+    "search": {
+      "names": [
+        "Arbutus unedo"
+      ],
+      "parts": {
+        "Flowers": "flowers",
+        "Fruit": "fruit",
+        "Leaves": "leaves",
+        "Bark": "bark",
+        "Habit": "tree"
+      }
+    }
+  },
+  {
+    "id": "salvia-rosmarinus",
+    "botanical": "Salvia rosmarinus",
+    "common": "rosemary",
+    "botanicalAccept": [
+      "rosmarinus officinalis"
+    ],
+    "commonAccept": [],
+    "search": {
+      "names": [
+        "Rosmarinus officinalis",
+        "Salvia rosmarinus"
+      ],
+      "parts": {
+        "Flowers": "flowers",
+        "Leaves": "leaves",
+        "Habit": "shrub",
+        "Close-up": "flower"
+      }
+    }
+  },
+  {
+    "id": "ginkgo-biloba",
+    "botanical": "Ginkgo biloba",
+    "common": "ginkgo",
+    "botanicalAccept": [
+      "gingko biloba"
+    ],
+    "commonAccept": [
+      "maidenhair tree",
+      "gingko"
+    ],
+    "search": {
+      "names": [
+        "Ginkgo biloba"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Leaves",
+          "title": "Ginkgo biloba - Fallen leaves - 2024 Pisa.jpg"
+        },
+        {
+          "part": "Fruit",
+          "title": "Ginkgo biloba seeds of Hongokuji no Ohatsuki Icho.jpg"
+        },
+        {
+          "part": "Bark",
+          "title": "Ginkgo Tree Ginkgo biloba Trunk Bark 2000px.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Ginkgo tree in Green-Wood Cemetery (23299p).jpg"
+        },
+        {
+          "part": "Autumn",
+          "title": "A golden Ginkgo biloba in autumn.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cercis-occidentalis",
+    "botanical": "Cercis occidentalis",
+    "common": "Western redbud",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "california redbud",
+      "redbud"
+    ],
+    "search": {
+      "names": [
+        "Cercis occidentalis"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Cercis occidentalis flowers 2004-03-10.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Cercis occidentalis, California.jpg"
+        },
+        {
+          "part": "Seed pods",
+          "title": "H20150416-0002—Cercis occidentalis—RPBG (17051649770).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Western red bud near Briceburg 2019-04-14.jpg"
+        },
+        {
+          "part": "Bark",
+          "title": "Cercis occidentalis bark.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "juncus",
+    "botanical": "Juncus sp.",
+    "common": "rush",
+    "botanicalAccept": [
+      "juncus",
+      "juncus sp",
+      "juncus spp",
+      "juncus species",
+      "juncus effusus",
+      "juncus patens"
+    ],
+    "commonAccept": [
+      "rushes",
+      "common rush",
+      "soft rush"
+    ],
+    "search": {
+      "names": [
+        "Juncus effusus",
+        "Juncus patens"
+      ],
+      "parts": {
+        "Habit": "plant",
+        "Inflorescence": "inflorescence",
+        "Stems": "stems",
+        "Close-up": "flowers"
+      }
+    }
+  },
+  {
+    "id": "cotinus-coggygria",
+    "botanical": "Cotinus coggygria",
+    "common": "smoke tree",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "smokebush",
+      "smoke bush",
+      "smoketree",
+      "european smoketree",
+      "european smoke tree"
+    ],
+    "search": {
+      "names": [
+        "Cotinus coggygria"
+      ],
+      "parts": {
+        "Flowers": "inflorescence",
+        "Leaves": "leaves",
+        "Habit": "shrub",
+        "Autumn": "autumn"
+      }
+    }
+  },
+  {
+    "id": "salvia-spathacea",
+    "botanical": "Salvia spathacea",
+    "common": "hummingbird sage",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "pitcher sage"
+    ],
+    "search": {
+      "names": [
+        "Salvia spathacea"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Salvia spathacea.JPG"
+        },
+        {
+          "part": "Leaves",
+          "title": "Salvia spathacea - Flickr - peganum (3).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Salvia spathacea - Descanso Gardens - La Cañada Flintridge, CA - DSC00853.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "SAGE, HUMMINGBIRD (salvia spathacea) (4-5-07) 2- canet (535475331).jpg"
+        },
+        {
+          "part": "Plant",
+          "title": "Salvia spathacea - Flickr - peganum (1).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "heteromeles-arbutifolia",
+    "botanical": "Heteromeles arbutifolia",
+    "common": "toyon",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "christmas berry",
+      "california holly",
+      "christmasberry"
+    ],
+    "search": {
+      "names": [
+        "Heteromeles arbutifolia"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Heteromeles arbutifolia flowers Wildcat Canyon Preserve 8.jpg"
+        },
+        {
+          "part": "Berries",
+          "title": "TOYON (heteromeles arbutifolia) (3-24-07) canet (535371030).jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Heteromeles arbutifolia 2.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Toyon (Heteromeles arbutifolia) Tree (31892009192).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "baccharis-pilularis",
+    "botanical": "Baccharis pilularis",
+    "common": "coyote brush",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "coyote bush",
+      "chaparral broom",
+      "coyotebrush"
+    ],
+    "search": {
+      "names": [
+        "Baccharis pilularis"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Chaparral Coyote Brush (Baccharis pilularis ssp. consanguinea), Photo 578271695.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Baccharis pilularis.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Baccharis pilularis kz6.jpg"
+        },
+        {
+          "part": "Seeds",
+          "title": "201211 208 San Diego Botanic Gdn - Natural Coastal Habitat, Baccharis pilularis Coyote Bush, a female plant in seed.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vitis-californica-rogers-red",
+    "botanical": "Vitis californica 'Roger's Red'",
+    "common": "Roger's Red California grape",
+    "botanicalAccept": [
+      "vitis californica rogers red",
+      "vitis californica cv rogers red",
+      "vitis rogers red"
+    ],
+    "botanicalPartial": [
+      "vitis californica",
+      "vitis"
+    ],
+    "commonAccept": [
+      "rogers red grape",
+      "rogers red",
+      "rogers red california wild grape",
+      "california grape rogers red",
+      "california wild grape rogers red"
+    ],
+    "note": "Photos may show the straight species Vitis californica; 'Roger's Red' is the selection with brilliant red fall color.",
+    "search": {
+      "names": [
+        "Vitis californica 'Roger's Red'",
+        "Vitis californica Roger's Red",
+        "Vitis californica"
+      ],
+      "parts": {
+        "Leaves": "leaves",
+        "Fruit": "grapes",
+        "Habit": "vine",
+        "Autumn": "autumn",
+        "Bark": "bark"
+      }
+    }
+  },
+  {
+    "id": "plumbago-auriculata",
+    "botanical": "Plumbago auriculata",
+    "common": "Cape plumbago",
+    "botanicalAccept": [
+      "plumbago capensis"
+    ],
+    "commonAccept": [
+      "plumbago",
+      "cape leadwort",
+      "leadwort",
+      "blue plumbago"
+    ],
+    "search": {
+      "names": [
+        "Plumbago auriculata"
+      ],
+      "parts": {
+        "Flowers": "flowers",
+        "Leaves": "leaves",
+        "Habit": "shrub",
+        "Close-up": "flower"
+      }
+    }
+  },
+  {
+    "id": "melianthus-major",
+    "botanical": "Melianthus major",
+    "common": "honey bush",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "honeybush",
+      "giant honey flower",
+      "honey flower",
+      "giant honeybush"
+    ],
+    "search": {
+      "names": [
+        "Melianthus major"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Leaves",
+          "title": "Melianthus major Leaf Top 3008px.jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Giant Honey Flower Melianthus major Newark Park Ozleworth Gloucestershire England.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Melianthus major - Orto botanico - Rome, Italy - DSC00098.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Melianthus major 2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "diplacus-eleanor",
+    "botanical": "Diplacus 'Eleanor'",
+    "common": "Eleanor's monkeyflower",
+    "botanicalAccept": [
+      "diplacus eleanor",
+      "mimulus eleanor",
+      "diplacus cv eleanor"
+    ],
+    "botanicalPartial": [
+      "diplacus",
+      "mimulus",
+      "diplacus aurantiacus",
+      "mimulus aurantiacus"
+    ],
+    "commonAccept": [
+      "eleanor monkeyflower",
+      "eleanor monkey flower",
+      "eleanors monkey flower",
+      "monkeyflower eleanor"
+    ],
+    "note": "'Eleanor' is a hybrid monkeyflower with pale cream-yellow flowers; photos may show related Diplacus hybrids or species.",
+    "search": {
+      "names": [
+        "Diplacus 'Eleanor'",
+        "Mimulus 'Eleanor'",
+        "Diplacus hybrid",
+        "Diplacus aurantiacus"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Mimulus pamela.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Mimulus trish.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Sticky Monkey-Flower - Diplacus aurantiacus (43440614412).jpg"
+        },
+        {
+          "part": "Plant",
+          "title": "Sticky Monkey-Flower - Diplacus aurantiacus (42902155992).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nepeta-walkers-low",
+    "botanical": "Nepeta × faassenii 'Walker's Low'",
+    "common": "Walker's Low catmint",
+    "botanicalAccept": [
+      "nepeta x faassenii walkers low",
+      "nepeta faassenii walkers low",
+      "nepeta walkers low",
+      "nepeta x faassenii cv walkers low"
+    ],
+    "botanicalPartial": [
+      "nepeta x faassenii",
+      "nepeta faassenii",
+      "nepeta"
+    ],
+    "commonAccept": [
+      "walkers low catmint",
+      "catmint walkers low",
+      "walkers low",
+      "catmint"
+    ],
+    "search": {
+      "names": [
+        "Nepeta 'Walker's Low'",
+        "Nepeta Walker's Low",
+        "Nepeta × faassenii",
+        "Nepeta faassenii"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Nepeta x faasenii Walkers Low 2zz.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Nepetaxfaassenii.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Nepeta faassenii catmint Easton Lodge Gardens walled garden Little Easton Essex England 01.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Nepeta x faassenii Walkers Low 2zz.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "teucrium-fruticans",
+    "botanical": "Teucrium fruticans",
+    "common": "shrubby germander",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "bush germander",
+      "tree germander",
+      "germander",
+      "silver germander"
+    ],
+    "search": {
+      "names": [
+        "Teucrium fruticans"
+      ],
+      "parts": {
+        "Flowers": "flowers",
+        "Leaves": "leaves",
+        "Habit": "shrub",
+        "Close-up": "flower"
+      }
+    }
+  },
+  {
+    "id": "oenothera-lindheimeri",
+    "botanical": "Oenothera lindheimeri",
+    "common": "gaura",
+    "botanicalAccept": [
+      "gaura lindheimeri"
+    ],
+    "commonAccept": [
+      "whirling butterflies",
+      "lindheimers beeblossom",
+      "beeblossom",
+      "bee blossom",
+      "wand flower",
+      "wandflower"
+    ],
+    "search": {
+      "names": [
+        "Gaura lindheimeri",
+        "Oenothera lindheimeri"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Gaura lindheimeri flower.JPG"
+        },
+        {
+          "part": "Leaves",
+          "title": "Starr-110307-2543-Gaura lindheimeri-leaves-Kula Botanical Garden-Maui (24984958231).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Gaura lindheimeri A.jpg"
+        },
+        {
+          "part": "Flower stem",
+          "title": "Gaura lindheimeri Whirling Butterflies 1zz.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Gaura lindheimeri.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "salvia-apiana",
+    "botanical": "Salvia apiana",
+    "common": "white sage",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "bee sage",
+      "sacred sage"
+    ],
+    "search": {
+      "names": [
+        "Salvia apiana"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Salvia apiana 3.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "J20161110-0061—Salvia apiana—RPBG—DxO (38341671812).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Salvia apiana 1c.JPG"
+        },
+        {
+          "part": "Rosette",
+          "title": "Salvia apiana 001 — briweldon.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "romneya-coulteri",
+    "botanical": "Romneya coulteri",
+    "common": "Matilija poppy",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "matilija",
+      "fried egg plant",
+      "fried egg flower",
+      "coulters matilija poppy"
+    ],
+    "search": {
+      "names": [
+        "Romneya coulteri"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Romneya coulteri ABL3.JPG"
+        },
+        {
+          "part": "Leaves",
+          "title": "Romneya coulteri Branche feuillue Jardin des Plantes.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Romneya coulteri HRM1.jpg"
+        },
+        {
+          "part": "Buds",
+          "title": "Matilija Poppy, Rhomneya coulteri - Flickr - theforestprimeval.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Romneya-coulteri-flower.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "scabiosa-columbaria",
+    "botanical": "Scabiosa columbaria",
+    "common": "scabiosa",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "pincushion flower",
+      "small scabious",
+      "dove pincushions",
+      "pincushion"
+    ],
+    "search": {
+      "names": [
+        "Scabiosa columbaria"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Scabiosa columbaria0.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Scabiosa columbaria Driakiew gołębia 2020-08-07 04.jpg"
+        },
+        {
+          "part": "Basal rosette",
+          "title": "GBIF 2888802 5995451240.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Small scabious (Scabiosa columbaria) - geograph.org.uk - 5489110.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Scabiosa columbaria flower.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "salvia-pozo-blue",
+    "botanical": "Salvia 'Pozo Blue'",
+    "common": "Pozo blue sage",
+    "botanicalAccept": [
+      "salvia pozo blue",
+      "salvia cv pozo blue",
+      "salvia clevelandii pozo blue"
+    ],
+    "botanicalPartial": [
+      "salvia",
+      "salvia clevelandii"
+    ],
+    "commonAccept": [
+      "pozo blue",
+      "pozo blue salvia",
+      "gray musk sage"
+    ],
+    "note": "'Pozo Blue' is a hybrid of Salvia clevelandii and S. leucophylla; photos may show the Cleveland sage parent.",
+    "search": {
+      "names": [
+        "Salvia 'Pozo Blue'",
+        "Salvia Pozo Blue",
+        "Salvia clevelandii"
+      ],
+      "parts": {
+        "Flowers": "flowers",
+        "Leaves": "leaves",
+        "Habit": "plant",
+        "Close-up": "flower"
+      }
+    }
+  },
+  {
+    "id": "salvia-mellifera",
+    "botanical": "Salvia mellifera",
+    "common": "black sage",
+    "botanicalAccept": [
+      "salvia melifera"
+    ],
+    "commonAccept": [],
+    "note": "Spelled 'Salvia melifera' on the class list; 'mellifera' (two l's) is the accepted spelling. Both are accepted here.",
+    "search": {
+      "names": [
+        "Salvia mellifera"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Salvia mellifera flowers 2003-03-12.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "File--i-Salvia mellifera-i--br--Mint family (Lamiaceae) (f5e142ee-c13e-5458-2b5f-492e1394435f).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Salvia mellifera kz01.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Black Sage (Salvia mellifera) (2322427355).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "salvia-yangii",
+    "botanical": "Salvia yangii",
+    "common": "Russian sage",
+    "botanicalAccept": [
+      "perovskia atriplicifolia",
+      "perovskia"
+    ],
+    "commonAccept": [
+      "perovskia"
+    ],
+    "search": {
+      "names": [
+        "Perovskia atriplicifolia",
+        "Salvia yangii"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Mint and Perovskia (8009159019).jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Perovskia atriplicifolia leave.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Gommern, der Heidegarten, Perovskia atriplicifolia.jpg"
+        },
+        {
+          "part": "Flower spikes",
+          "title": "20170719Perovskia atriplicifolia3.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Perovskia-atriplicifolia-2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "verbena-bonariensis",
+    "botanical": "Verbena bonariensis",
+    "common": "tall vervain",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "purpletop vervain",
+      "purple top vervain",
+      "argentinian vervain",
+      "brazilian vervain",
+      "tall verbena",
+      "purpletop verbena"
+    ],
+    "search": {
+      "names": [
+        "Verbena bonariensis"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Verbena bonariensis, bloeiwijze. 28-08-2021. (d.j.b) 01.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Verbena bonariensis 'Purple top' (Verbenaceae) leaves.JPG"
+        },
+        {
+          "part": "Habit",
+          "title": "'Verbena bonariensis' in the Walled Garden at Goodnestone Park Kent England 1.jpg"
+        },
+        {
+          "part": "Stem",
+          "title": "Verbena bonariensis stem (02).jpeg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "anigozanthos",
+    "botanical": "Anigozanthos sp.",
+    "common": "kangaroo paw",
+    "botanicalAccept": [
+      "anigozanthos",
+      "anigozanthos sp",
+      "anigozanthos spp",
+      "anigozanthos species",
+      "anigozanthos flavidus"
+    ],
+    "commonAccept": [
+      "kangaroo paws",
+      "kangaroopaw"
+    ],
+    "search": {
+      "names": [
+        "Anigozanthos flavidus",
+        "Anigozanthos",
+        "Anigozanthos manglesii"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Starr-090430-6847-Anigozanthos flavidus-flowers-Enchanting Floral Gardens of Kula-Maui (24322840644).jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Anigozanthos rufus 'Red Kangaroo Paw' (Haemodoraceae) leaves.JPG"
+        },
+        {
+          "part": "Habit",
+          "title": "Anigozanthos flavidus HRM.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Anigozanthos flavidus flower stalk - HNT.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eschscholzia-californica",
+    "botanical": "Eschscholzia californica",
+    "common": "California poppy",
+    "botanicalAccept": [
+      "escholzia californica",
+      "eschscholtzia californica"
+    ],
+    "commonAccept": [
+      "golden poppy",
+      "cup of gold",
+      "california golden poppy"
+    ],
+    "search": {
+      "names": [
+        "Eschscholzia californica"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Bright Orange California Poppy.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Eschscholzia californica (California poppy) florescence and leaves next to Calystegia soldanella (beach morningglory) leaves (7184134380).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Eschscholzia californica 'alifornian poppy' (Papaveraceae) plant and leaves.JPG"
+        },
+        {
+          "part": "Seeds",
+          "title": "Eschscholzia californica seeds.jpg"
+        },
+        {
+          "part": "Mass bloom",
+          "title": "California Poppies blossom - Antelope Valley California Poppy Reserve4.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nemophila-menziesii",
+    "botanical": "Nemophila menziesii",
+    "common": "baby blue eyes",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "baby blue-eyes",
+      "baby blueeyes"
+    ],
+    "search": {
+      "names": [
+        "Nemophila menziesii"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Flowers of Nemophila menziesii in Nokonoshima Island Park.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Baby Blue Eyes Scanography.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Baby Blue Eyes, Shell Creek (49621100262).jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Nemophila menziesii.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "layia-platyglossa",
+    "botanical": "Layia platyglossa",
+    "common": "tidy tips",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "tidytips",
+      "coastal tidytips",
+      "coastal tidy tips",
+      "tidy tip"
+    ],
+    "search": {
+      "names": [
+        "Layia platyglossa"
+      ],
+      "parts": {
+        "Flowers": "flower",
+        "Leaves": "leaves",
+        "Habit": "plant",
+        "Close-up": "flowers"
+      }
+    }
+  }
+]

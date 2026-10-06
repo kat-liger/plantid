@@ -1,0 +1,337 @@
+:root {
+  --bg: #f4f6f2;
+  --surface: #ffffff;
+  --text: #1f2a1f;
+  --muted: #5f6b5f;
+  --border: #d9dfd6;
+  --accent: #2f7a3e;
+  --accent-soft: #e4f2e6;
+  --warn: #b7791f;
+  --warn-soft: #fbf1dc;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --radius: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161a16;
+    --surface: #212621;
+    --text: #e8ece6;
+    --muted: #a1aa9f;
+    --border: #3a423a;
+    --accent: #5fc46f;
+    --accent-soft: #223a27;
+    --warn: #e0a84c;
+    --warn-soft: #3d3220;
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body { height: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 1.15rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.topbar, .navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 20px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+
+.navbar {
+  border-bottom: 0;
+  border-top: 1px solid var(--border);
+  position: sticky;
+  bottom: 0;
+}
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.score {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.layout {
+  flex: 1;
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) minmax(300px, 2fr);
+  gap: 24px;
+  padding: 20px;
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.gallery { min-width: 0; }
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.image-card {
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.image-card:first-child:nth-last-child(odd) {
+  grid-column: 1 / -1;
+}
+
+.image-card:first-child:nth-last-child(odd) img { aspect-ratio: 2.4 / 1; }
+
+.image-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  cursor: zoom-in;
+  background: var(--border);
+}
+
+.part-label {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  letter-spacing: 0.02em;
+}
+
+.credit {
+  font-size: 0.7rem;
+  color: var(--muted);
+  padding: 5px 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.credit a { color: inherit; }
+
+.empty {
+  grid-column: 1 / -1;
+  padding: 40px;
+  text-align: center;
+  color: var(--muted);
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow);
+  align-self: start;
+  position: sticky;
+  top: 20px;
+}
+
+.progress {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 18px;
+}
+
+.field { margin-bottom: 22px; }
+
+.field label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.input-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.input-row input {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  padding: 9px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.input-row input:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.input-row input.correct {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.input-row input.partial {
+  border-color: var(--warn);
+  background: var(--warn-soft);
+}
+
+.check {
+  width: 26px;
+  height: 26px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+  font-size: 1.3rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.hint {
+  min-height: 1.2em;
+  font-size: 0.85rem;
+  color: var(--warn);
+  margin-top: 4px;
+}
+
+.answer {
+  margin-top: 4px;
+  font-size: 0.95rem;
+  color: var(--accent);
+  min-height: 1.3em;
+}
+
+.botanical-answer { font-style: italic; }
+
+.note {
+  font-size: 0.85rem;
+  color: var(--muted);
+  background: var(--bg);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin: 0 0 12px;
+}
+
+.note:empty { display: none; }
+
+.tips {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin: 0;
+}
+
+kbd {
+  font: 0.8em ui-monospace, SFMono-Regular, Menlo, monospace;
+  border: 1px solid var(--border);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  padding: 0 5px;
+}
+
+.btn {
+  font: inherit;
+  padding: 9px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.btn:hover { border-color: var(--accent); }
+
+.btn:disabled { opacity: 0.4; cursor: default; border-color: var(--border); }
+
+.btn-primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.btn-ghost {
+  font-size: 0.85rem;
+  padding: 6px 12px;
+}
+
+.btn-reveal {
+  font-size: 0.85rem;
+  padding: 8px 12px;
+  flex-shrink: 0;
+}
+
+.btn-nav { min-width: 140px; }
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.88);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+  cursor: zoom-out;
+  padding: 24px;
+}
+
+.lightbox[hidden] { display: none; }
+
+.lightbox img {
+  max-width: 100%;
+  max-height: calc(100vh - 90px);
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.lightbox-caption {
+  color: #ccc;
+  font-size: 0.8rem;
+  margin-top: 10px;
+}
+
+.lightbox-caption a { color: #fff; }
+
+@media (max-width: 860px) {
+  .layout {
+    grid-template-columns: 1fr;
+    padding: 16px;
+  }
+  .panel { position: static; }
+  .image-grid { grid-template-columns: 1fr; }
+  .image-card:first-child:nth-last-child(odd) img { aspect-ratio: 4 / 3; }
+  .btn-nav { min-width: 0; flex: 1; }
+  .topbar { flex-wrap: wrap; }
+}
