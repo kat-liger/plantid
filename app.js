@@ -2,15 +2,17 @@
   "use strict";
 
   const DATA = window.PLANT_DATA || { plants: [], images: {} };
-  const plants = DATA.plants;
+  const allPlants = DATA.plants.filter((p) => !p.skip);
   const images = DATA.images || {};
-  const STORAGE_KEY = "plantid-state-v1";
+  const LIST_KEY = "plantid-list"; // only the chosen list is remembered, never answers
+  const ALL = "__all__";
 
   const $ = (id) => document.getElementById(id);
   const grid = $("images");
   const counter = $("counter");
   const score = $("score");
   const noteEl = $("note");
+  const listSelect = $("list");
   const inputs = { botanical: $("botanical"), common: $("common") };
   const checks = { botanical: $("botanical-check"), common: $("common-check") };
   const hints = { botanical: $("botanical-hint"), common: $("common-hint") };
@@ -19,9 +21,12 @@
   const lightboxImg = $("lightbox-img");
   const lightboxCaption = $("lightbox-caption");
 
-  let order = plants.map((_, i) => i);
+  const listNames = [...new Set(allPlants.map((p) => p.list || "Plants"))];
+  let plants = []; // plants in the chosen list
+  let order = [];
   let pos = 0;
-  let state = loadState();
+  let learned = new Set(); // ids named correctly in this session (both names)
+  let revealed = { botanical: false, common: false };
 
   // ---------- answer checking ----------
 
@@ -53,29 +58,43 @@
     return !!n && (plant.botanicalPartial || []).some((a) => norm(a) === n);
   }
 
-  // ---------- state ----------
+  // ---------- lists ----------
 
-  function loadState() {
-    try {
-      return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
-    } catch (e) {
-      return {};
+  function populateLists() {
+    listSelect.innerHTML = "";
+    for (const name of listNames) {
+      const n = allPlants.filter((p) => (p.list || "Plants") === name).length;
+      const opt = document.createElement("option");
+      opt.value = name;
+      opt.textContent = `${name} (${n} plants)`;
+      listSelect.appendChild(opt);
     }
+    if (listNames.length > 1) {
+      const opt = document.createElement("option");
+      opt.value = ALL;
+      opt.textContent = `All lists (${allPlants.length} plants)`;
+      listSelect.appendChild(opt);
+    }
+    let chosen = null;
+    try {
+      chosen = localStorage.getItem(LIST_KEY);
+    } catch (e) {
+      /* ignore */
+    }
+    const valid = [...listSelect.options].some((o) => o.value === chosen);
+    listSelect.value = valid ? chosen : listNames[listNames.length - 1]; // newest list by default
   }
 
-  function saveState() {
+  function setList(name) {
+    plants = name === ALL ? allPlants : allPlants.filter((p) => (p.list || "Plants") === name);
+    order = plants.map((_, i) => i);
+    pos = 0;
     try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      localStorage.setItem(LIST_KEY, name);
     } catch (e) {
-      /* storage unavailable; keep going in memory */
+      /* storage unavailable; fine */
     }
-  }
-
-  function plantState(plant) {
-    if (!state[plant.id]) {
-      state[plant.id] = { botanical: "", common: "", revealed: { botanical: false, common: false } };
-    }
-    return state[plant.id];
+    render();
   }
 
   function current() {
@@ -84,31 +103,36 @@
 
   // ---------- rendering ----------
 
+  // Every visit to a plant starts with empty fields: nothing typed is kept.
   function render() {
     const plant = current();
-    const ps = plantState(plant);
-    counter.textContent = `Plant ${pos + 1} of ${plants.length}`;
+    revealed = { botanical: false, common: false };
+    counter.textContent = plant ? `Plant ${pos + 1} of ${plants.length}` : "No plants in this list";
     renderImages(plant);
     for (const field of ["botanical", "common"]) {
-      inputs[field].value = ps[field] || "";
-      evaluate(field, false);
-      renderAnswer(field);
+      inputs[field].value = "";
+      inputs[field].classList.remove("correct", "partial");
+      checks[field].textContent = "";
+      hints[field].textContent = "";
+      answers[field].textContent = "";
     }
-    renderNote();
+    noteEl.textContent = "";
     $("prev").disabled = pos === 0;
-    $("next").disabled = pos === plants.length - 1;
+    $("next").disabled = pos >= plants.length - 1;
     updateScore();
     preload(pos + 1);
     inputs.botanical.focus();
   }
 
   function renderImages(plant) {
-    const list = images[plant.id] || [];
+    const list = plant ? images[plant.id] || [] : [];
     grid.innerHTML = "";
     if (!list.length) {
       const empty = document.createElement("div");
       empty.className = "empty";
-      empty.textContent = "No photos for this plant yet. Run scripts/fetch_images.py to download them.";
+      empty.textContent = plant
+        ? "No photos for this plant yet. Run scripts/fetch_images.py to download them."
+        : "Choose another list above.";
       grid.appendChild(empty);
       return;
     }
@@ -150,44 +174,50 @@
     });
   }
 
-  function evaluate(field, save) {
+  function evaluate(field) {
     const plant = current();
-    const ps = plantState(plant);
+    if (!plant) return false;
     const value = inputs[field].value;
-    ps[field] = value;
     const correct = isCorrect(plant, field, value);
     const partial = !correct && isPartial(plant, field, value);
     inputs[field].classList.toggle("correct", correct);
     inputs[field].classList.toggle("partial", partial);
     checks[field].textContent = correct ? "✓" : "";
     hints[field].textContent = partial ? "Almost — add the cultivar name." : "";
-    if (save !== false) saveState();
+    if (bothCorrect()) learned.add(plant.id);
     updateScore();
     renderNote();
     return correct;
   }
 
+  function bothCorrect() {
+    const plant = current();
+    return (
+      !!plant &&
+      isCorrect(plant, "botanical", inputs.botanical.value) &&
+      isCorrect(plant, "common", inputs.common.value)
+    );
+  }
+
   function renderAnswer(field) {
     const plant = current();
-    const ps = plantState(plant);
-    answers[field].textContent = ps.revealed[field] ? (field === "botanical" ? plant.botanical : plant.common) : "";
+    answers[field].textContent = revealed[field] ? (field === "botanical" ? plant.botanical : plant.common) : "";
   }
 
   function renderNote() {
     const plant = current();
-    const ps = plantState(plant);
-    const known =
-      ps.revealed.botanical || ps.revealed.common ||
-      (isCorrect(plant, "botanical", ps.botanical) && isCorrect(plant, "common", ps.common));
-    noteEl.textContent = known && plant.note ? plant.note : "";
+    const known = revealed.botanical || revealed.common || bothCorrect();
+    const bits = [];
+    if (plant && known) {
+      if (plant.family) bits.push(`Family: ${plant.family}`);
+      if (plant.note) bits.push(plant.note);
+    }
+    noteEl.textContent = bits.join(" ");
   }
 
   function updateScore() {
-    const learned = plants.filter((p) => {
-      const ps = state[p.id];
-      return ps && isCorrect(p, "botanical", ps.botanical) && isCorrect(p, "common", ps.common);
-    }).length;
-    score.textContent = `${learned} / ${plants.length} learned`;
+    const n = plants.filter((p) => learned.has(p.id)).length;
+    score.textContent = `${n} / ${plants.length} learned`;
   }
 
   // ---------- navigation ----------
@@ -209,9 +239,10 @@
   }
 
   function reset() {
-    if (!confirm("Clear all your answers and revealed names?")) return;
-    state = {};
-    saveState();
+    if (!confirm("Clear the learned count and start this list from the beginning?")) return;
+    learned = new Set();
+    order = plants.map((_, i) => i);
+    pos = 0;
     render();
   }
 
@@ -231,7 +262,7 @@
   // ---------- wiring ----------
 
   for (const field of ["botanical", "common"]) {
-    inputs[field].addEventListener("input", () => evaluate(field, true));
+    inputs[field].addEventListener("input", () => evaluate(field));
     inputs[field].addEventListener("keydown", (e) => {
       if (e.key !== "Enter") return;
       e.preventDefault();
@@ -239,11 +270,9 @@
         inputs.common.focus();
         return;
       }
-      const plant = current();
-      const ps = plantState(plant);
-      if (isCorrect(plant, "botanical", ps.botanical) && isCorrect(plant, "common", ps.common)) {
+      if (bothCorrect()) {
         go(1);
-      } else if (!isCorrect(plant, "botanical", ps.botanical)) {
+      } else if (!isCorrect(current(), "botanical", inputs.botanical.value)) {
         inputs.botanical.focus();
       }
     });
@@ -251,9 +280,9 @@
 
   document.querySelectorAll("[data-reveal]").forEach((btn) => {
     btn.addEventListener("click", () => {
+      if (!current()) return;
       const field = btn.dataset.reveal;
-      plantState(current()).revealed[field] = true;
-      saveState();
+      revealed[field] = true;
       renderAnswer(field);
       renderNote();
       inputs[field].focus();
@@ -264,6 +293,7 @@
   $("next").addEventListener("click", () => go(1));
   $("shuffle").addEventListener("click", shuffle);
   $("reset").addEventListener("click", reset);
+  listSelect.addEventListener("change", () => setList(listSelect.value));
 
   lightbox.addEventListener("click", closeLightbox);
   document.addEventListener("keydown", (e) => {
@@ -271,15 +301,34 @@
       closeLightbox();
       return;
     }
-    const typing = document.activeElement && document.activeElement.tagName === "INPUT";
-    if (typing) return;
+    const tag = document.activeElement && document.activeElement.tagName;
+    if (tag === "INPUT" || tag === "SELECT") return;
     if (e.key === "ArrowRight") go(1);
     if (e.key === "ArrowLeft") go(-1);
   });
 
-  if (!plants.length) {
+  // Open a specific plant from the URL: index.html#scabiosa-columbaria
+  function jumpTo(id) {
+    const plant = allPlants.find((p) => p.id === id);
+    if (!plant) return false;
+    const listName = plant.list || "Plants";
+    if (listSelect.value !== listName && listSelect.value !== ALL) {
+      listSelect.value = listName;
+      setList(listName);
+    }
+    const idx = plants.findIndex((p) => p.id === id);
+    if (idx < 0) return false;
+    pos = order.indexOf(idx);
+    render();
+    return true;
+  }
+
+  if (!allPlants.length) {
     grid.innerHTML = '<div class="empty">No plant data found. Run scripts/fetch_images.py to generate data.js.</div>';
   } else {
-    render();
+    populateLists();
+    setList(listSelect.value);
+    const hashId = decodeURIComponent(location.hash.slice(1));
+    if (hashId) jumpTo(hashId);
   }
 })();

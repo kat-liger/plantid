@@ -7,8 +7,11 @@ and **Previous / Next** step through the list.
 
 ## Use it
 
-Open `index.html` in a browser. No server or build step needed.
+Open `index.html` in a browser, or use the hosted copy at
+https://kat-liger.github.io/plantid/. No server or build step needed.
 
+- Pick a plant list from the dropdown at the top. The newest list is shown
+  by default; "All lists" combines them.
 - Names are checked as you type. Capitalization, quotes, accents and the `×`
   in hybrid names don't matter (`nepeta x faassenii walkers low` is fine).
 - `Heuchera`, `Heuchera sp.` and `Heuchera species` are all accepted for
@@ -16,13 +19,22 @@ Open `index.html` in a browser. No server or build step needed.
 - For cultivars, typing just the species shows an "add the cultivar" hint.
 - **Enter** moves to the next field, or to the next plant once both are right.
   Arrow keys move between plants when no input is focused.
-- Click a photo to enlarge it. Progress is saved in the browser; **Reset** clears it.
+- Click a photo to enlarge it.
+- To open a specific plant, add its id from `plants.json` to the URL, e.g.
+  `index.html#scabiosa-columbaria`.
+- The fields are empty every time you arrive at a plant, and nothing you type
+  is saved. The "learned" count tracks plants you named correctly in the
+  current session; **Reset** clears it, and reloading the page clears it too.
 
-## Edit the plant list
+## Edit the plant lists
 
 `plants.json` is the source of truth. Each entry has the names, accepted
-alternates, and the Wikimedia Commons search terms used to find photos.
-After editing it, regenerate `data.js`:
+alternates, a `list` name (the dropdown groups plants by it), an optional
+`family` (shown once the name is known), and the Wikimedia Commons search
+terms used to find photos. An entry with `"skip": true` is kept in the file
+but hidden from the quiz (used for the "skip this week" plants). List names
+follow the class handouts: "Lists 1–2", "List 3", "List 4". After editing,
+regenerate `data.js`:
 
 ```sh
 python3 scripts/fetch_images.py              # fetch missing plants only

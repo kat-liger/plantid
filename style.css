@@ -75,6 +75,23 @@ h1 {
   font-size: 0.9rem;
 }
 
+.list-picker {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.list-picker select {
+  font: inherit;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 5px 8px;
+}
+
 .layout {
   flex: 1;
   display: grid;

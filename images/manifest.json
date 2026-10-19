@@ -1190,5 +1190,1325 @@
    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
    "file": "layia-platyglossa/04-close-up.jpg"
   }
+ ],
+ "glandularia-lilacina-de-la-mina": [
+  {
+   "part": "Flowers",
+   "title": "Verbena lilacina de la mina.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Verbena_lilacina_de_la_mina.jpg",
+   "author": "Stickpen",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "glandularia-lilacina-de-la-mina/01-flowers.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Glandularia lilacina kz02.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Glandularia_lilacina_kz02.jpg",
+   "author": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "glandularia-lilacina-de-la-mina/02-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Glandularia lilacina kz05.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Glandularia_lilacina_kz05.jpg",
+   "author": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "glandularia-lilacina-de-la-mina/03-close-up.jpg"
+  },
+  {
+   "part": "Plant",
+   "title": "Glandularia lilacina kz06.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Glandularia_lilacina_kz06.jpg",
+   "author": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "glandularia-lilacina-de-la-mina/04-plant.jpg"
+  }
+ ],
+ "salvia-microphylla": [
+  {
+   "part": "Flowers",
+   "title": "Salvia microphylla (10195065404).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_microphylla_(10195065404).jpg",
+   "author": "Dick Culbert from Gibsons, B.C., Canada",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "salvia-microphylla/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Salvia microphylla-Sauge à petites feuilles-Feuilles-20210719.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_microphylla-Sauge_%C3%A0_petites_feuilles-Feuilles-20210719.jpg",
+   "author": "Daniel VILLAFRUELA",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "salvia-microphylla/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Gardenology.org-IMG 2036 hunt09oct.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2036_hunt09oct.jpg",
+   "author": "Raffi Kojian",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "salvia-microphylla/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Salvia microphylla (Lamiaceae) 0001 01.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_microphylla_(Lamiaceae)_0001_01.jpg",
+   "author": "Juan Carlos Fonseca Mata",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "salvia-microphylla/04-close-up.jpg"
+  },
+  {
+   "part": "'Hot Lips' form",
+   "title": "Salvia microphylla 'Hot Lips' 5Dsr 1-1541.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_microphylla_%27Hot_Lips%27_5Dsr_1-1541.jpg",
+   "author": "SAplants",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "salvia-microphylla/05-hot-lips-form.jpg"
+  }
+ ],
+ "rosa": [
+  {
+   "part": "Flowers",
+   "title": "Rosa 'Rosengräfin Marie Henriette' (actm).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Rosa_%27Rosengr%C3%A4fin_Marie_Henriette%27_(actm).jpg",
+   "author": "Agnes Monkelbaan",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "rosa/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Blush rose leaf.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Blush_rose_leaf.jpg",
+   "author": "Nadiatalent",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "rosa/02-leaves.jpg"
+  },
+  {
+   "part": "Prickles",
+   "title": "Rosa multiflora prickles 575711525.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Rosa_multiflora_prickles_575711525.jpg",
+   "author": "Alex Abair",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "rosa/03-prickles.jpg"
+  },
+  {
+   "part": "Hips",
+   "title": "Rose hips (Rosa sp.).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Rose_hips_(Rosa_sp.).jpg",
+   "author": "John Knight",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "rosa/04-hips.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Rosa Rugosa bush - geograph.org.uk - 2033237.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Rosa_Rugosa_bush_-_geograph.org.uk_-_2033237.jpg",
+   "author": "Jonathan Kington",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "rosa/05-habit.jpg"
+  },
+  {
+   "part": "Stem",
+   "title": "Rosa Leverkusen 2021-09-11 3654.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Rosa_Leverkusen_2021-09-11_3654.jpg",
+   "author": "Salicyna",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "rosa/06-stem.jpg"
+  }
+ ],
+ "leonotis-leonurus": [
+  {
+   "part": "Flowers",
+   "title": "Southern Double-collared Sunbird (Cinnyris chalibeus) immature male foraging on flowers of Wild Dagga (Leonotis leonurus) (32812380721).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Southern_Double-collared_Sunbird_(Cinnyris_chalibeus)_immature_male_foraging_on_flowers_of_Wild_Dagga_(Leonotis_leonurus)_(32812380721).jpg",
+   "author": "Bernard DUPONT from FRANCE",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "leonotis-leonurus/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Leonotis leonurus 104038851.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Leonotis_leonurus_104038851.jpg",
+   "author": "Alex Abair",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "leonotis-leonurus/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Leonotis leonurus 01.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Leonotis_leonurus_01.jpg",
+   "author": "Gerardgiraud",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "leonotis-leonurus/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Leonotus leonurus 1DS-II 0155.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Leonotus_leonurus_1DS-II_0155.jpg",
+   "author": "SAplants",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "leonotis-leonurus/04-close-up.jpg"
+  },
+  {
+   "part": "Flower spike",
+   "title": "Leonotis leonurus 4323.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Leonotis_leonurus_4323.jpg",
+   "author": "Buendia22",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "leonotis-leonurus/05-flower-spike.jpg"
+  }
+ ],
+ "helleborus": [
+  {
+   "part": "Flowers",
+   "title": "Helleborus orientalis double purple flowers, by baby-bear.org.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Helleborus_orientalis_double_purple_flowers,_by_baby-bear.org.jpg",
+   "author": "Natalka Ukraine",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "helleborus/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "2007-01-04Helleborus11.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2007-01-04Helleborus11.jpg",
+   "author": "Wildfeuer",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "file": "helleborus/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Helleborus orientalis 'Lenten Rose' (Ranunculaceae) plant.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Helleborus_orientalis_%27Lenten_Rose%27_(Ranunculaceae)_plant.jpg",
+   "author": "Magnus Manske",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "helleborus/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "東方菟葵(東方嚏根草) Helleborus orientalis -荷蘭 Keukenhof Flower Show, Holland- (9261992308).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%96%B9%E8%8F%9F%E8%91%B5(%E6%9D%B1%E6%96%B9%E5%9A%8F%E6%A0%B9%E8%8D%89)_Helleborus_orientalis_-%E8%8D%B7%E8%98%AD_Keukenhof_Flower_Show,_Holland-_(9261992308).jpg",
+   "author": "阿橋 HQ",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "helleborus/04-close-up.jpg"
+  },
+  {
+   "part": "Flower",
+   "title": "2023-03-02 15 58 13 A Lenten Rose flower along Seven Oaks Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-03-02_15_58_13_A_Lenten_Rose_flower_along_Seven_Oaks_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+   "author": "Famartin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "helleborus/05-flower.jpg"
+  }
+ ],
+ "mentha-spicata": [
+  {
+   "part": "Flowers",
+   "title": "Mentha spicata, 2021-07-05, Beechview, 01.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Mentha_spicata,_2021-07-05,_Beechview,_01.jpg",
+   "author": "Cbaile19",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "mentha-spicata/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Mint leaves (Mentha spicata).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Mint_leaves_(Mentha_spicata).jpg",
+   "author": "Commonists",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "mentha-spicata/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Starr-080608-7435-Mentha spicata-leaves-Water plant Sand Island-Midway Atoll (41264499822).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-080608-7435-Mentha_spicata-leaves-Water_plant_Sand_Island-Midway_Atoll_(41264499822).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "mentha-spicata/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Mentha spicata 15-p.bot-mentha.spic-04.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Mentha_spicata_15-p.bot-mentha.spic-04.jpg",
+   "author": "Ayotte, Gilles, 1948-",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "mentha-spicata/04-close-up.jpg"
+  }
+ ],
+ "gaillardia": [
+  {
+   "part": "Flowers",
+   "title": "Gaillardia grandiflora Blanket Flower გაილარდია.JPG",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gaillardia_grandiflora_Blanket_Flower_%E1%83%92%E1%83%90%E1%83%98%E1%83%9A%E1%83%90%E1%83%A0%E1%83%93%E1%83%98%E1%83%90.JPG",
+   "author": "Lazaregagnidze",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "gaillardia/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Gaillardia July 2013-3.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gaillardia_July_2013-3.jpg",
+   "author": "Alvesgaspar",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "gaillardia/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Gaillardia x grandiflora Fanfare 2zz.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gaillardia_x_grandiflora_Fanfare_2zz.jpg",
+   "author": "Photo by David J. Stang",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "gaillardia/03-habit.jpg"
+  },
+  {
+   "part": "Bud",
+   "title": "Kokardenblume Gaillardia aristata stack28 20190721-RM-7210879.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Kokardenblume_Gaillardia_aristata_stack28_20190721-RM-7210879.jpg",
+   "author": "Ermell",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "gaillardia/04-bud.jpg"
+  },
+  {
+   "part": "Seed heads",
+   "title": "Gaillardia × grandiflora JRVdH 04.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gaillardia_%C3%97_grandiflora_JRVdH_04.jpg",
+   "author": "Cephas",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "gaillardia/05-seed-heads.jpg"
+  }
+ ],
+ "pelargonium": [
+  {
+   "part": "Flowers",
+   "title": "Africa0703-0101a - Flickr - Dave Proffer.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Africa0703-0101a_-_Flickr_-_Dave_Proffer.jpg",
+   "author": "Dave Proffer",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "pelargonium/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Starr-080117-1519-Pelargonium x hortorum-variegated leaves-Walmart Kahului-Maui (24873763676).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-080117-1519-Pelargonium_x_hortorum-variegated_leaves-Walmart_Kahului-Maui_(24873763676).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "pelargonium/02-leaves.jpg"
+  },
+  {
+   "part": "Buds",
+   "title": "Bud of pelargonium3.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Bud_of_pelargonium3.jpg",
+   "author": "Memorator",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "pelargonium/03-buds.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Acton Works MMB 22.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Acton_Works_MMB_22.jpg",
+   "author": "mattbuck (category)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "pelargonium/04-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Pelargonium zonale (Geraniaceae).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Pelargonium_zonale_(Geraniaceae).jpg",
+   "author": "Petar Milošević",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "pelargonium/05-close-up.jpg"
+  }
+ ],
+ "penstemon": [
+  {
+   "part": "Flowers",
+   "title": "Penstemonheterophyllus0.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Penstemonheterophyllus0.jpg",
+   "author": "Stickpen",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "penstemon/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Penstemon (5144288832).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Penstemon_(5144288832).jpg",
+   "author": "Matt Lavin from Bozeman, Montana, USA",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "penstemon/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "PenstemonheterophyllusBoZ.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:PenstemonheterophyllusBoZ.jpg",
+   "author": "Stickpen",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "penstemon/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Penstemon heterophyllus Paxton 064.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Penstemon_heterophyllus_Paxton_064.jpg",
+   "author": "John Lindley and Joseph Paxton, drawing by L. A. L. Constans",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "penstemon/04-close-up.jpg"
+  }
+ ],
+ "lavandula-dentata-variegata": [
+  {
+   "part": "Flowers",
+   "title": "Lavandula-dentata-flower.JPG",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Lavandula-dentata-flower.JPG",
+   "author": "Sten",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "lavandula-dentata-variegata/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Starr-120613-9682-Lavandula dentata-leaves-Lowes Nursery Kahului-Maui (25119194606).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-120613-9682-Lavandula_dentata-leaves-Lowes_Nursery_Kahului-Maui_(25119194606).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "lavandula-dentata-variegata/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Lavandula dentata 2.JPG",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Lavandula_dentata_2.JPG",
+   "author": "Ghislain118 http://www.fleurs-des-montagnes.net",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "lavandula-dentata-variegata/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Starr-100615-6995-Lavandula dentata-flower-Alii Kula Lavender Farm Waipoli Rd-Maui (24413367773).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-100615-6995-Lavandula_dentata-flower-Alii_Kula_Lavender_Farm_Waipoli_Rd-Maui_(24413367773).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "lavandula-dentata-variegata/04-close-up.jpg"
+  },
+  {
+   "part": "Foliage",
+   "title": "Lavandula-dentata-foliage.JPG",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Lavandula-dentata-foliage.JPG",
+   "author": "Sten",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "lavandula-dentata-variegata/05-foliage.jpg"
+  }
+ ],
+ "calendula-officinalis": [
+  {
+   "part": "Flowers",
+   "title": "Ringelblume (Calendula officinalis) Blüte focus stack-20220619-RM-165610.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Ringelblume_(Calendula_officinalis)_Bl%C3%BCte_focus_stack-20220619-RM-165610.jpg",
+   "author": "Ermell",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "calendula-officinalis/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "20151230Calendula officinalis1.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:20151230Calendula_officinalis1.jpg",
+   "author": "AnRo0002",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "calendula-officinalis/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Calendula officinalis 1a.JPG",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Calendula_officinalis_1a.JPG",
+   "author": "Aiwok",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "calendula-officinalis/03-habit.jpg"
+  },
+  {
+   "part": "Seed head",
+   "title": "Zaaddoos van een goudsbloem (Calendula officinalis) 11-09-2020 (d.j.b.).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Zaaddoos_van_een_goudsbloem_(Calendula_officinalis)_11-09-2020_(d.j.b.).jpg",
+   "author": "Dominicus Johannes Bergsma",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "calendula-officinalis/04-seed-head.jpg"
+  },
+  {
+   "part": "Bud",
+   "title": "Calendula officinalis - Botanischer Garten Mainz IMG 5417.JPG",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Calendula_officinalis_-_Botanischer_Garten_Mainz_IMG_5417.JPG",
+   "author": "Oceancetaceen - Alice Chodura",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "calendula-officinalis/05-bud.jpg"
+  }
+ ],
+ "iris-germanica": [
+  {
+   "part": "Flowers",
+   "title": "Deutsche Schwertlilie (Iris × germanica) im Garten.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Deutsche_Schwertlilie_(Iris_%C3%97_germanica)_im_Garten.jpg",
+   "author": "Georg Buzin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "iris-germanica/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Clonal colony of Iris germanica.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Clonal_colony_of_Iris_germanica.jpg",
+   "author": "Bomac (talk)",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "iris-germanica/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Plant of Iris Germanica 'Blackbeard' of Barbata Media group in the Merian Gardens.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Plant_of_Iris_Germanica_%27Blackbeard%27_of_Barbata_Media_group_in_the_Merian_Gardens.jpg",
+   "author": "Paradise Chronicle",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "iris-germanica/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Close up of Bearded Iris Flower - geograph.org.uk - 2380455.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Close_up_of_Bearded_Iris_Flower_-_geograph.org.uk_-_2380455.jpg",
+   "author": "David Anstiss",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "iris-germanica/04-close-up.jpg"
+  },
+  {
+   "part": "Colour form",
+   "title": "Breadth Iris 'Whoop em up' of the BB group in the Merian Gardens.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Breadth_Iris_%27Whoop_em_up%27_of_the_BB_group_in_the_Merian_Gardens.jpg",
+   "author": "Paradise Chronicle",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "iris-germanica/05-colour-form.jpg"
+  }
+ ],
+ "strelitzia": [
+  {
+   "part": "Flowers",
+   "title": "Starr-110331-4346-Strelitzia reginae-flowers-Shibuya Farm Kula-Maui (24963456662).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-110331-4346-Strelitzia_reginae-flowers-Shibuya_Farm_Kula-Maui_(24963456662).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "strelitzia/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Starr-060615-8171-Strelitzia reginae-leaves-Makawao-Maui (24567959950).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-060615-8171-Strelitzia_reginae-leaves-Makawao-Maui_(24567959950).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "strelitzia/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Ave-do-paraíso, Strelitzia reginae, em Bagé, Rio Grande do Sul, Brasil (8160 x 6120).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Ave-do-para%C3%ADso,_Strelitzia_reginae,_em_Bag%C3%A9,_Rio_Grande_do_Sul,_Brasil_(8160_x_6120).jpg",
+   "author": "Gabriel Collares",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "strelitzia/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Strelitzia reginae (Flower).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Strelitzia_reginae_(Flower).jpg",
+   "author": "Ixitixel",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "file": "strelitzia/04-close-up.jpg"
+  }
+ ],
+ "salvia-leucophylla": [
+  {
+   "part": "Flowers",
+   "title": "Salvia leucophylla (29342282338).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucophylla_(29342282338).jpg",
+   "author": "Björn S...",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "salvia-leucophylla/01-flowers.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Salvia leucophylla (29340143341).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucophylla_(29340143341).jpg",
+   "author": "Björn S...",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "salvia-leucophylla/02-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Salvia leucophylla (29340141598).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucophylla_(29340141598).jpg",
+   "author": "Björn S...",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "salvia-leucophylla/03-close-up.jpg"
+  },
+  {
+   "part": "Plant",
+   "title": "Salvia leucophylla.JPG",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucophylla.JPG",
+   "author": "No machine-readable author provided. NoahElhardt assumed (based on copyright claims).",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "file": "salvia-leucophylla/04-plant.jpg"
+  }
+ ],
+ "achillea-millefolium": [
+  {
+   "part": "Flowers",
+   "title": "Flowers. Achillea millefolium.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Flowers._Achillea_millefolium.jpg",
+   "author": "llysmlv",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "achillea-millefolium/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Achillea millefolium - leaves (18736678192).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_-_leaves_(18736678192).jpg",
+   "author": "NY State IPM Program at Cornell University from New York, USA",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "achillea-millefolium/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Yarrow (Achillea millefolium).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Yarrow_(Achillea_millefolium).jpg",
+   "author": "Petar Milošević",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "achillea-millefolium/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Achillea millefolium (flower).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(flower).jpg",
+   "author": "Alpsdake",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "achillea-millefolium/04-close-up.jpg"
+  }
+ ],
+ "zephyranthes-candida": [
+  {
+   "part": "Flowers",
+   "title": "Flowers of Zephyranthes candida 20161007.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Flowers_of_Zephyranthes_candida_20161007.jpg",
+   "author": "そらみみ",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "zephyranthes-candida/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Zephyranthes candida-fully bloomed flower.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Zephyranthes_candida-fully_bloomed_flower.jpg",
+   "author": "Sabina Bajracharya",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "zephyranthes-candida/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Zephyranthes candida kz4.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Zephyranthes_candida_kz4.jpg",
+   "author": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "zephyranthes-candida/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Zephyranthes candida Flowers BotGard0906a.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Zephyranthes_candida_Flowers_BotGard0906a.jpg",
+   "author": "BotBln",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "file": "zephyranthes-candida/04-close-up.jpg"
+  }
+ ],
+ "lavandula-stoechas": [
+  {
+   "part": "Flowers",
+   "title": "Lavandula stoechas (flowers).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Lavandula_stoechas_(flowers).jpg",
+   "author": "Hans Hillewaert",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "lavandula-stoechas/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Starr-120613-9688-Lavandula stoechas-flower and leaves-Lowes Nursery Kahului-Maui (25145558975).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-120613-9688-Lavandula_stoechas-flower_and_leaves-Lowes_Nursery_Kahului-Maui_(25145558975).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "lavandula-stoechas/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Lavandula stoechas (plant).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Lavandula_stoechas_(plant).jpg",
+   "author": "Hans Hillewaert",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "lavandula-stoechas/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Lavandula stoechas (flower).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Lavandula_stoechas_(flower).jpg",
+   "author": "Hans Hillewaert",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "lavandula-stoechas/04-close-up.jpg"
+  }
+ ],
+ "epilobium-canum": [
+  {
+   "part": "Flowers",
+   "title": "Epilobium canum flowers 2002-11-18.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Epilobium_canum_flowers_2002-11-18.jpg",
+   "author": "Curtis Clark",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "file": "epilobium-canum/01-flowers.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Epilobium canum 5Dsr 5890.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Epilobium_canum_5Dsr_5890.jpg",
+   "author": "SAplants",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "epilobium-canum/02-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Lateral view of Epilobium canum flower in Sakuya Konohana Kan, Osaka.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Lateral_view_of_Epilobium_canum_flower_in_Sakuya_Konohana_Kan,_Osaka.jpg",
+   "author": "M108t",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "epilobium-canum/03-close-up.jpg"
+  },
+  {
+   "part": "Plant",
+   "title": "Epilobium canum in Sakuya Konohana Kan, Osaka.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Epilobium_canum_in_Sakuya_Konohana_Kan,_Osaka.jpg",
+   "author": "M108t",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "epilobium-canum/04-plant.jpg"
+  }
+ ],
+ "artemisia": [
+  {
+   "part": "Leaves",
+   "title": "Artemisia californica01.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_californica01.jpg",
+   "author": "JoJan",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "artemisia/01-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "ArtemisiaCalifornica-GaviotaCA.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:ArtemisiaCalifornica-GaviotaCA.jpg",
+   "author": "Antandrus (talk) (Uploads)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "artemisia/02-habit.jpg"
+  },
+  {
+   "part": "Flowers",
+   "title": "Artemisia californica kz08.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_californica_kz08.jpg",
+   "author": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "artemisia/03-flowers.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Artemisia absinthium Bylica piołun 2023-07-21 01.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_absinthium_Bylica_pio%C5%82un_2023-07-21_01.jpg",
+   "author": "Agnieszka Kwiecień, Nova",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "artemisia/04-close-up.jpg"
+  },
+  {
+   "part": "Coastal habit",
+   "title": "Artemisia californica kz06.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_californica_kz06.jpg",
+   "author": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "artemisia/05-coastal-habit.jpg"
+  }
+ ],
+ "lavandula-angustifolia": [
+  {
+   "part": "Flowers",
+   "title": "Starr-120613-9678-Lavandula angustifolia-flowers-Lowes Nursery Kahului-Maui (25027273432).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-120613-9678-Lavandula_angustifolia-flowers-Lowes_Nursery_Kahului-Maui_(25027273432).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "lavandula-angustifolia/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Starr-120613-9676-Lavandula angustifolia-leaves-Lowes Nursery Kahului-Maui (24849863090).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-120613-9676-Lavandula_angustifolia-leaves-Lowes_Nursery_Kahului-Maui_(24849863090).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "lavandula-angustifolia/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Gommern, Kräutergarten, Lavendel.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gommern,_Kr%C3%A4utergarten,_Lavendel.jpg",
+   "author": "Dguendel",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "file": "lavandula-angustifolia/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Fiori di Lavanda.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Fiori_di_Lavanda.jpg",
+   "author": "Matteo Garetti",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "lavandula-angustifolia/04-close-up.jpg"
+  },
+  {
+   "part": "Field",
+   "title": "Champ de lavande a Saint-Eustache.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Champ_de_lavande_a_Saint-Eustache.jpg",
+   "author": "Jeangagnon",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "lavandula-angustifolia/05-field.jpg"
+  }
+ ],
+ "monstera-deliciosa": [
+  {
+   "part": "Leaves",
+   "title": "Starr-110215-1244-Monstera deliciosa-leaves-KiHana Nursery Kihei-Maui (25049579366).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-110215-1244-Monstera_deliciosa-leaves-KiHana_Nursery_Kihei-Maui_(25049579366).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "monstera-deliciosa/01-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Fruit Salad Plant (Monstera deliciosa).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Fruit_Salad_Plant_(Monstera_deliciosa).jpg",
+   "author": "Mokkie",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "monstera-deliciosa/02-habit.jpg"
+  },
+  {
+   "part": "Fruit",
+   "title": "Fruit of Monstera deliciosa.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Fruit_of_Monstera_deliciosa.jpg",
+   "author": "Tangopaso",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "monstera-deliciosa/03-fruit.jpg"
+  },
+  {
+   "part": "Flower",
+   "title": "Monstera deliciosa inflorescence.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Monstera_deliciosa_inflorescence.jpg",
+   "author": "Enzo^",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "file": "monstera-deliciosa/04-flower.jpg"
+  }
+ ],
+ "gambelia-speciosa": [
+  {
+   "part": "Flowers",
+   "title": "Galveziaspeciosa-firecracker.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Galveziaspeciosa-firecracker.jpg",
+   "author": "Stickpen",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "gambelia-speciosa/01-flowers.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Galvezia speciosa.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Galvezia_speciosa.jpg",
+   "author": "Melburnian",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "file": "gambelia-speciosa/02-habit.jpg"
+  },
+  {
+   "part": "Plant",
+   "title": "Gambelia speciosa (Galvezia speciosa) - Manhattan Beach Botanical Garden - Manhattan Beach, CA - DSC01320.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gambelia_speciosa_(Galvezia_speciosa)_-_Manhattan_Beach_Botanical_Garden_-_Manhattan_Beach,_CA_-_DSC01320.jpg",
+   "author": "Daderot",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "gambelia-speciosa/03-plant.jpg"
+  },
+  {
+   "part": "Plant",
+   "title": "Gambelia speciosa kz02.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gambelia_speciosa_kz02.jpg",
+   "author": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "gambelia-speciosa/04-plant.jpg"
+  }
+ ],
+ "diplacus-aurantiacus": [
+  {
+   "part": "Flowers",
+   "title": "MONKEY FLOWER, STICKY (mimulus aurantiacus) 5-28-06 (535309994).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:MONKEY_FLOWER,_STICKY_(mimulus_aurantiacus)_5-28-06_(535309994).jpg",
+   "author": "ALAN SCHMIERER",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "diplacus-aurantiacus/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Mimulus aurantiacus-4.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Mimulus_aurantiacus-4.jpg",
+   "author": "Eugene Zelenko",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "diplacus-aurantiacus/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Spooner's Cove (5770348952).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Spooner%27s_Cove_(5770348952).jpg",
+   "author": "Joyce Cory on Flickr as docentjoyce",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "diplacus-aurantiacus/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Sticky Monkey-Flower - Diplacus aurantiacus (43440630582).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Sticky_Monkey-Flower_-_Diplacus_aurantiacus_(43440630582).jpg",
+   "author": "Björn S...",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "diplacus-aurantiacus/04-close-up.jpg"
+  },
+  {
+   "part": "Shrub",
+   "title": "Diplacus aurantiacus Briones.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Diplacus_aurantiacus_Briones.jpg",
+   "author": "Awinch1001",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "file": "diplacus-aurantiacus/05-shrub.jpg"
+  }
+ ],
+ "sphaeralcea-ambigua": [
+  {
+   "part": "Flowers",
+   "title": "Joshua Tree National Park flowers - Sphaeralcea ambigua - 3.JPG",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_National_Park_flowers_-_Sphaeralcea_ambigua_-_3.JPG",
+   "author": "Jarek Tuszyński",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "sphaeralcea-ambigua/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Sphaeralcea ambigua 18.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Sphaeralcea_ambigua_18.jpg",
+   "author": "Stan Shebs",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "sphaeralcea-ambigua/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Sphaeralcea ambigua 4.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Sphaeralcea_ambigua_4.jpg",
+   "author": "Stan Shebs",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "sphaeralcea-ambigua/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Sphaeralcea ambigua flower 2003-11-18.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Sphaeralcea_ambigua_flower_2003-11-18.jpg",
+   "author": "No machine-readable author provided. Curtis Clark assumed (based on copyright claims).",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "file": "sphaeralcea-ambigua/04-close-up.jpg"
+  },
+  {
+   "part": "Plant",
+   "title": "Sphaeralcea ambigua 20.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Sphaeralcea_ambigua_20.jpg",
+   "author": "Stan Shebs",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "sphaeralcea-ambigua/05-plant.jpg"
+  }
+ ],
+ "chrysanthemum": [
+  {
+   "part": "Flowers",
+   "title": "Chrysanthemum × morifolium Flowers 03.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_%C3%97_morifolium_Flowers_03.jpg",
+   "author": "AjayDas",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "chrysanthemum/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Chrysanthemum 19.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_19.jpg",
+   "author": "পাপৰি বৰা",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "chrysanthemum/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "20250916 Serednikovo estate 01 (84330).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:20250916_Serednikovo_estate_01_(84330).jpg",
+   "author": "Sergey A. Demidov",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "chrysanthemum/03-habit.jpg"
+  },
+  {
+   "part": "Spider form",
+   "title": "菊花-金枝玉葉 Chrysanthemum morifolium 'Gold Twigs Jade Leaves' -香港圓玄學院 Hong Kong Yuen Yuen Institute- (12085616866).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:%E8%8F%8A%E8%8A%B1-%E9%87%91%E6%9E%9D%E7%8E%89%E8%91%89_Chrysanthemum_morifolium_%27Gold_Twigs_Jade_Leaves%27_-%E9%A6%99%E6%B8%AF%E5%9C%93%E7%8E%84%E5%AD%B8%E9%99%A2_Hong_Kong_Yuen_Yuen_Institute-_(12085616866).jpg",
+   "author": "阿橋 HQ",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "chrysanthemum/04-spider-form.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "乒乓菊 Chrysanthemum morifolium Pompon Form -香港花展 Hong Kong Flower Show- (26727402587).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:%E4%B9%92%E4%B9%93%E8%8F%8A_Chrysanthemum_morifolium_Pompon_Form_-%E9%A6%99%E6%B8%AF%E8%8A%B1%E5%B1%95_Hong_Kong_Flower_Show-_(26727402587).jpg",
+   "author": "阿橋 HQ",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "chrysanthemum/05-close-up.jpg"
+  }
+ ],
+ "solidago": [
+  {
+   "part": "Flowers",
+   "title": "Solidagocalifornica.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Solidagocalifornica.jpg",
+   "author": "Anthony Valois and the National Park Service",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "solidago/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "4300 Hickmore - 2025-07-09 - 06.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:4300_Hickmore_-_2025-07-09_-_06.jpg",
+   "author": "Jeangagnon",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "solidago/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Korina 2010-08-26 Solidago canadensis.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Korina_2010-08-26_Solidago_canadensis.jpg",
+   "author": "Katrin Schneider / korina.info",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "solidago/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Canada goldenrod (50252619176).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Canada_goldenrod_(50252619176).jpg",
+   "author": "U.S. Fish and Wildlife Service - Midwest Region",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "solidago/04-close-up.jpg"
+  },
+  {
+   "part": "California goldenrod",
+   "title": "Solidagocalifornica1.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Solidagocalifornica1.jpg",
+   "author": "Stickpen",
+   "license": "Public domain",
+   "licenseUrl": "",
+   "file": "solidago/05-california-goldenrod.jpg"
+  }
+ ],
+ "asclepias-fascicularis": [
+  {
+   "part": "Flowers",
+   "title": "Asclepias fascicularis flowers 2003-06-05.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Asclepias_fascicularis_flowers_2003-06-05.jpg",
+   "author": "No machine-readable author provided. Curtis Clark assumed (based on copyright claims).",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "file": "asclepias-fascicularis/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Narrow-leaf milkweed.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Narrow-leaf_milkweed.jpg",
+   "author": "WriterArtistCoder",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "asclepias-fascicularis/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Narrowleaf milkweed, Asclepias fascicularis (15966683860).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Narrowleaf_milkweed,_Asclepias_fascicularis_(15966683860).jpg",
+   "author": "Jim Morefield from Nevada, USA",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "asclepias-fascicularis/03-habit.jpg"
+  },
+  {
+   "part": "Seed pods",
+   "title": "Asclepias fascicularis (302514053).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Asclepias_fascicularis_(302514053).jpg",
+   "author": "The Marmot from USA",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "asclepias-fascicularis/04-seed-pods.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Narrowleaf Milkweed - Asclepias fascicularis (28595688567).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Narrowleaf_Milkweed_-_Asclepias_fascicularis_(28595688567).jpg",
+   "author": "Björn S...",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "asclepias-fascicularis/05-close-up.jpg"
+  }
+ ],
+ "foeniculum-vulgare": [
+  {
+   "part": "Flowers",
+   "title": "Starr-170304-7221-Foeniculum vulgare-flowers-Polipoli-Maui (33383061145).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-170304-7221-Foeniculum_vulgare-flowers-Polipoli-Maui_(33383061145).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "foeniculum-vulgare/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Fennel (31865565661).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Fennel_(31865565661).jpg",
+   "author": "XoMEoX",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "foeniculum-vulgare/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Fennel (Foeniculum vulgare) - Parc Natural de s'Albufera, Spain 2022-04-18 (01).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Fennel_(Foeniculum_vulgare)_-_Parc_Natural_de_s%27Albufera,_Spain_2022-04-18_(01).jpg",
+   "author": "Ryan Hodnett",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "foeniculum-vulgare/03-habit.jpg"
+  },
+  {
+   "part": "Seeds",
+   "title": "Finocchietto selvatico.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Finocchietto_selvatico.jpg",
+   "author": "Albarubescens",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "foeniculum-vulgare/04-seeds.jpg"
+  },
+  {
+   "part": "Flowering stand",
+   "title": "Fennel weeds at Goulburn.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Fennel_weeds_at_Goulburn.jpg",
+   "author": "Nadiatalent",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "foeniculum-vulgare/05-flowering-stand.jpg"
+  }
+ ],
+ "salvia-leucantha": [
+  {
+   "part": "Flowers",
+   "title": "Salvia leucantha (6369619017).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucantha_(6369619017).jpg",
+   "author": "Dinesh Valke from Thane, India",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "salvia-leucantha/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Salvia leucantha (6367467671).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucantha_(6367467671).jpg",
+   "author": "Dinesh Valke from Thane, India",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "file": "salvia-leucantha/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Salvia leucantha (Mexican bush sage) w & g Madeira-002 (33278392846).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucantha_(Mexican_bush_sage)_w_%26_g_Madeira-002_(33278392846).jpg",
+   "author": "muffinn from Worcester, UK",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "salvia-leucantha/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Salvia leucantha - Mexican Bush Sage at Paro during LGFC - Bhutan 2019 (3).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucantha_-_Mexican_Bush_Sage_at_Paro_during_LGFC_-_Bhutan_2019_(3).jpg",
+   "author": "Vinayaraj",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "file": "salvia-leucantha/04-close-up.jpg"
+  },
+  {
+   "part": "Spikes",
+   "title": "Salvia leucantha (Mexican bush sage) w & g Madeira (32936495760).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Salvia_leucantha_(Mexican_bush_sage)_w_%26_g_Madeira_(32936495760).jpg",
+   "author": "muffinn from Worcester, UK",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "file": "salvia-leucantha/05-spikes.jpg"
+  }
+ ],
+ "tagetes-lemmonii": [
+  {
+   "part": "Flowers",
+   "title": "Starr-071024-8778-Tagetes lemmonii-flowers and leaves-Enchanting Floral Gardens of Kula-Maui (24266612264).jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-071024-8778-Tagetes_lemmonii-flowers_and_leaves-Enchanting_Floral_Gardens_of_Kula-Maui_(24266612264).jpg",
+   "author": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "file": "tagetes-lemmonii/01-flowers.jpg"
+  },
+  {
+   "part": "Leaves",
+   "title": "Tagetes lemmonii adaxial leaf surface.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Tagetes_lemmonii_adaxial_leaf_surface.jpg",
+   "author": "Alex Abair",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "file": "tagetes-lemmonii/02-leaves.jpg"
+  },
+  {
+   "part": "Habit",
+   "title": "Gardenology.org-IMG 2852 rbgs11jan.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2852_rbgs11jan.jpg",
+   "author": "Raffi Kojian",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "tagetes-lemmonii/03-habit.jpg"
+  },
+  {
+   "part": "Close-up",
+   "title": "Tagetes lemmonii flower.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Tagetes_lemmonii_flower.jpg",
+   "author": "First Light (talk).",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "tagetes-lemmonii/04-close-up.jpg"
+  },
+  {
+   "part": "Foliage",
+   "title": "Gardenology.org-IMG 2853 rbgs11jan.jpg",
+   "pageUrl": "https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2853_rbgs11jan.jpg",
+   "author": "Raffi Kojian",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "file": "tagetes-lemmonii/05-foliage.jpg"
+  }
  ]
 }

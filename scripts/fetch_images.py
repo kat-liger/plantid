@@ -65,7 +65,13 @@ def title_ok(title):
 def api_get(params):
     """GET with retry/backoff; Commons rate-limits anonymous bursts."""
     for attempt in range(6):
-        r = session.get(API, params=params, timeout=30)
+        try:
+            r = session.get(API, params=params, timeout=60)
+        except requests.RequestException as e:
+            wait = 10 * (attempt + 1)
+            print(f"    network error ({type(e).__name__}), retrying in {wait}s")
+            time.sleep(wait)
+            continue
         if r.status_code == 429 or r.status_code >= 500:
             wait = int(r.headers.get("Retry-After") or 5 * (attempt + 1))
             print(f"    rate limited ({r.status_code}), waiting {wait}s")
@@ -232,8 +238,16 @@ def pick_images(plant, log):
 
 
 def download(url, dest):
-    r = session.get(url, timeout=60)
-    r.raise_for_status()
+    for attempt in range(4):
+        try:
+            r = session.get(url, timeout=90)
+            r.raise_for_status()
+            break
+        except requests.RequestException as e:
+            if attempt == 3:
+                raise
+            print(f"    download error ({type(e).__name__}), retrying")
+            time.sleep(10 * (attempt + 1))
     dest.write_bytes(r.content)
     optimise(dest)
 
