@@ -33,7 +33,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "heuchera",
@@ -63,7 +64,8 @@
         "Close-up": "inflorescence"
       }
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "arbutus-unedo",
@@ -83,7 +85,8 @@
         "Habit": "tree"
       }
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "salvia-rosmarinus",
@@ -105,7 +108,8 @@
         "Close-up": "flower"
       }
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "ginkgo-biloba",
@@ -185,7 +189,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "juncus",
@@ -216,7 +221,8 @@
         "Close-up": "flowers"
       }
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "cotinus-coggygria",
@@ -279,7 +285,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "heteromeles-arbutifolia",
@@ -351,7 +358,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "vitis-californica-rogers-red",
@@ -388,7 +396,8 @@
         "Bark": "bark"
       }
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "plumbago-auriculata",
@@ -414,7 +423,8 @@
         "Close-up": "flower"
       }
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "melianthus-major",
@@ -451,7 +461,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 1"
   },
   {
     "id": "diplacus-eleanor",
@@ -502,7 +513,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "nepeta-walkers-low",
@@ -576,7 +588,8 @@
         "Close-up": "flower"
       }
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 3"
   },
   {
     "id": "oenothera-lindheimeri",
@@ -622,7 +635,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "salvia-apiana",
@@ -657,7 +671,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "romneya-coulteri",
@@ -698,7 +713,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "scabiosa-columbaria",
@@ -739,7 +755,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "salvia-pozo-blue",
@@ -808,7 +825,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "salvia-yangii",
@@ -850,7 +868,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "verbena-bonariensis",
@@ -932,7 +951,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "eschscholzia-californica",
@@ -975,7 +995,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 3"
   },
   {
     "id": "nemophila-menziesii",
@@ -1010,7 +1031,8 @@
         }
       ]
     },
-    "list": "Lists 1–2"
+    "list": "Lists 1–2",
+    "quizzed": "Quiz 2"
   },
   {
     "id": "layia-platyglossa",
@@ -1039,6 +1061,7 @@
   {
     "id": "glandularia-lilacina-de-la-mina",
     "list": "List 3",
+    "quizzed": "Quiz 3",
     "botanical": "Glandularia lilacina 'De La Mina'",
     "common": "lilac verbena",
     "botanicalAccept": [
@@ -1091,6 +1114,7 @@
   {
     "id": "salvia-microphylla",
     "list": "List 3",
+    "quizzed": "Quiz 3",
     "botanical": "Salvia microphylla",
     "common": "littleleaf sage",
     "botanicalAccept": [],
@@ -1133,6 +1157,7 @@
   {
     "id": "rosa",
     "list": "List 3",
+    "quizzed": "Quiz 4",
     "botanical": "Rosa sp.",
     "common": "rose",
     "botanicalAccept": [
@@ -1183,6 +1208,7 @@
   {
     "id": "leonotis-leonurus",
     "list": "List 3",
+    "quizzed": "Quiz 3",
     "botanical": "Leonotis leonurus",
     "common": "lion's tail",
     "botanicalAccept": [],
@@ -1312,6 +1338,7 @@
   {
     "id": "gaillardia",
     "list": "List 3",
+    "quizzed": "Quiz 3",
     "botanical": "Gaillardia sp.",
     "common": "blanket flowers",
     "botanicalAccept": [
@@ -1366,6 +1393,7 @@
   {
     "id": "pelargonium",
     "list": "List 3",
+    "quizzed": "Quiz 4",
     "botanical": "Pelargonium sp.",
     "common": "geranium",
     "botanicalAccept": [
@@ -1450,6 +1478,7 @@
   {
     "id": "lavandula-dentata-variegata",
     "list": "List 3",
+    "quizzed": "Quiz 3",
     "botanical": "Lavandula dentata 'Variegata'",
     "common": "variegated French lavender",
     "botanicalAccept": [
@@ -1501,6 +1530,7 @@
   {
     "id": "calendula-officinalis",
     "list": "List 3",
+    "quizzed": "Quiz 5",
     "botanical": "Calendula officinalis",
     "common": "pot marigold",
     "botanicalAccept": [],
@@ -1542,6 +1572,7 @@
   {
     "id": "iris-germanica",
     "list": "List 3",
+    "quizzed": "Quiz 3",
     "botanical": "Iris × germanica",
     "common": "bearded iris",
     "botanicalAccept": [
@@ -1633,6 +1664,7 @@
   {
     "id": "achillea-millefolium",
     "list": "List 3",
+    "quizzed": "Quiz 3",
     "botanical": "Achillea millefolium",
     "common": "yarrow",
     "botanicalAccept": [],
@@ -1656,6 +1688,7 @@
   {
     "id": "zephyranthes-candida",
     "list": "List 3",
+    "quizzed": "Quiz 3",
     "botanical": "Zephyranthes candida",
     "common": "white rain lily",
     "botanicalAccept": [
@@ -1686,6 +1719,7 @@
   {
     "id": "lavandula-stoechas",
     "list": "List 3",
+    "quizzed": "Quiz 4",
     "botanical": "Lavandula stoechas",
     "common": "Spanish lavender",
     "botanicalAccept": [],
@@ -1709,6 +1743,7 @@
   {
     "id": "epilobium-canum",
     "list": "List 4",
+    "quizzed": "Quiz 4",
     "family": "Onagraceae",
     "botanical": "Epilobium canum",
     "common": "California fuchsia",
@@ -1794,6 +1829,7 @@
   {
     "id": "lavandula-angustifolia",
     "list": "List 4",
+    "quizzed": "Quiz 4",
     "family": "Lamiaceae",
     "botanical": "Lavandula angustifolia",
     "common": "English lavender",
@@ -1895,6 +1931,7 @@
   {
     "id": "gambelia-speciosa",
     "list": "List 4",
+    "quizzed": "Quiz 4",
     "family": "Plantaginaceae",
     "botanical": "Gambelia speciosa",
     "common": "island snapdragon",
@@ -1970,6 +2007,7 @@
   {
     "id": "sphaeralcea-ambigua",
     "list": "List 4",
+    "quizzed": "Quiz 4",
     "family": "Malvaceae",
     "botanical": "Sphaeralcea ambigua",
     "common": "apricot mallow",
@@ -2013,6 +2051,7 @@
   {
     "id": "chrysanthemum",
     "list": "List 4",
+    "quizzed": "Quiz 5",
     "family": "Asteraceae",
     "botanical": "Chrysanthemum sp.",
     "common": "mums",
@@ -2072,6 +2111,7 @@
   {
     "id": "solidago",
     "list": "List 4",
+    "quizzed": "Quiz 4",
     "family": "Asteraceae",
     "botanical": "Solidago sp.",
     "common": "goldenrod",
@@ -2124,6 +2164,7 @@
   {
     "id": "asclepias-fascicularis",
     "list": "List 4",
+    "quizzed": "Quiz 4",
     "family": "Apocynaceae",
     "botanical": "Asclepias fascicularis",
     "common": "narrowleaf milkweed",
@@ -2210,6 +2251,7 @@
   {
     "id": "salvia-leucantha",
     "list": "List 4",
+    "quizzed": "Quiz 5",
     "family": "Lamiaceae",
     "botanical": "Salvia leucantha",
     "common": "Mexican bush sage",
@@ -2252,6 +2294,7 @@
   {
     "id": "tagetes-lemmonii",
     "list": "List 4",
+    "quizzed": "Quiz 4",
     "family": "Asteraceae",
     "botanical": "Tagetes lemmonii",
     "common": "Lemmon's marigold",
@@ -2290,6 +2333,1610 @@
         {
           "part": "Foliage",
           "title": "Gardenology.org-IMG 2853 rbgs11jan.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "asparagus-densiflorus",
+    "list": "List 5",
+    "family": "Asparagaceae",
+    "botanical": "Asparagus densiflorus",
+    "common": "asparagus fern / foxtail fern",
+    "botanicalAccept": [
+      "asparagus aethiopicus",
+      "protasparagus densiflorus",
+      "asparagus densiflorus myers",
+      "asparagus densiflorus sprengeri"
+    ],
+    "commonAccept": [
+      "asparagus fern",
+      "foxtail fern",
+      "asparagus fern foxtail fern",
+      "foxtail fern asparagus fern",
+      "foxtail asparagus fern",
+      "sprenger's asparagus",
+      "sprengers asparagus",
+      "emerald fern",
+      "asparagus-fern",
+      "foxtail"
+    ],
+    "search": {
+      "names": [
+        "Asparagus densiflorus",
+        "Asparagus aethiopicus"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "Ekor Tupai.jpg"
+        },
+        {
+          "part": "Foliage",
+          "title": "Asparagus sprengeri.jpg"
+        },
+        {
+          "part": "Berries",
+          "title": "Starr 071024-9920 Asparagus densiflorus.jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Asparagus aethiopicus aka Sprenger's Asparagus.jpg"
+        },
+        {
+          "part": "Foxtail fronds",
+          "title": "Ramat aNadiv park, Israel (12742558783).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lantana-camara",
+    "list": "List 5",
+    "quizzed": "Quiz 5",
+    "family": "Verbenaceae",
+    "botanical": "Lantana camara",
+    "common": "yellow lantana",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "lantana",
+      "common lantana",
+      "yellow sage",
+      "big-sage",
+      "wild sage",
+      "spanish flag",
+      "shrub verbena"
+    ],
+    "search": {
+      "names": [
+        "Lantana camara"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Common Lantana (Lantana camara) growing in Ponnani, Kerala 20.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Common Lantana (Lantana camara) growing in Ponnani, Kerala 06.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Lantana camara (do tupi kamará) de flores amarelas 02.jpg"
+        },
+        {
+          "part": "Fruit",
+          "title": "לנטנה ססגונית – פירות ירוקים ובשלים באותה תפרחת 1577.jpg"
+        },
+        {
+          "part": "Other colors",
+          "title": "Multicoloured Common Lantana (Lantana camara) Growing in Ponnani, Kerala 05.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "polygala",
+    "list": "List 5",
+    "quizzed": "Quiz 5",
+    "family": "Polygalaceae",
+    "botanical": "Polygala sp.",
+    "common": "polygala",
+    "botanicalAccept": [
+      "polygala",
+      "polygala sp",
+      "polygala spp",
+      "polygala species",
+      "polygala x grandiflora",
+      "polygala grandiflora",
+      "polygala fruticosa",
+      "polygala myrtifolia",
+      "polygala x dalmaisiana",
+      "polygala dalmaisiana"
+    ],
+    "commonAccept": [
+      "polygalas",
+      "sweet pea shrub",
+      "milkwort",
+      "september bush",
+      "myrtle-leaf milkwort"
+    ],
+    "search": {
+      "names": [
+        "Polygala myrtifolia",
+        "Polygala × dalmaisiana",
+        "Polygala fruticosa"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Polygala myrtifolia (var. grandiflora)-1.JPG"
+        },
+        {
+          "part": "Close-up",
+          "title": "POLYGALA myrtifolia. jpg.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Polygala myrtifolia 1.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Polygala myrtifolia Krzyżownica 2024-01-20 Malaga 02.jpg"
+        },
+        {
+          "part": "Shrub",
+          "title": "Polygala myrtifolia kz4.JPG"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coleonema-pulchellum",
+    "list": "List 5",
+    "quizzed": "Quiz 5",
+    "family": "Rutaceae",
+    "botanical": "Coleonema pulchellum",
+    "common": "pink breath of heaven",
+    "botanicalAccept": [
+      "coleonema pulchrum"
+    ],
+    "commonAccept": [
+      "breath of heaven",
+      "pink breath-of-heaven",
+      "confetti bush",
+      "pink diosma",
+      "diosma"
+    ],
+    "search": {
+      "names": [
+        "Coleonema pulchellum",
+        "Coleonema pulchrum"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Coleonema pulchellum 1DS-II 2-1060.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Coleonema pulchellum 1DS-II 3-5358.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Coleonema pulchellum 'Compact Form' kz01.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Coleonema pulchellum kz2.jpg"
+        },
+        {
+          "part": "Branches",
+          "title": "Coleonema pulchellum 0194.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cordyline-australis",
+    "list": "List 5",
+    "family": "Asparagaceae",
+    "botanical": "Cordyline australis",
+    "common": "cabbage tree",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "cabbage palm",
+      "new zealand cabbage tree",
+      "cabbage-tree",
+      "ti kouka",
+      "torbay palm",
+      "giant dracaena"
+    ],
+    "search": {
+      "names": [
+        "Cordyline australis"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "CabbageTreeKaihoka.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Cordyline australis in Abel Tasman NP (3).jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Cordyline australis kz05.jpg"
+        },
+        {
+          "part": "In flower",
+          "title": "Mature multi-branched cabbage tree in full flower.jpg"
+        },
+        {
+          "part": "Trees",
+          "title": "Cordyline australis Hinewai New Zealand.JPG"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bergenia",
+    "list": "List 5",
+    "family": "Saxifragaceae",
+    "botanical": "Bergenia sp.",
+    "common": "bergenia",
+    "botanicalAccept": [
+      "bergenia",
+      "bergenia sp",
+      "bergenia spp",
+      "bergenia species",
+      "bergenia cordifolia",
+      "bergenia crassifolia"
+    ],
+    "commonAccept": [
+      "bergenias",
+      "elephant's ears",
+      "elephants ears",
+      "elephant ears",
+      "pigsqueak",
+      "pig squeak",
+      "heartleaf bergenia"
+    ],
+    "search": {
+      "names": [
+        "Bergenia cordifolia",
+        "Bergenia crassifolia",
+        "Bergenia"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Atlas roslin pl Bergenia grubolistna 5841 6464.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Bergenia cordifolia (Inflorescens).jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Bergenia cordifolia kz01.jpg"
+        },
+        {
+          "part": "Mass planting",
+          "title": "Bergenia crassifolia 2019-04-16 1060.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Bergenia crassifolia 2019-04-16 1056.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nandina-domestica",
+    "list": "List 5",
+    "quizzed": "Quiz 5",
+    "family": "Berberidaceae",
+    "botanical": "Nandina domestica",
+    "common": "heavenly bamboo",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "nandina",
+      "sacred bamboo",
+      "heavenly-bamboo"
+    ],
+    "search": {
+      "names": [
+        "Nandina domestica"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Berries",
+          "title": "Nandina domestica, fruits.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Nandina domestica A.jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "(MAD) N. domestica - infl. - 02.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "2020-02-01 10 43 38 Heavenly Bamboo in mid-winter along Franklin Farm Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "2021-06-22 17 24 35 Heavenly Bamboo flowers along Franklin Farm Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "liriope",
+    "list": "List 5",
+    "quizzed": "Quiz 5",
+    "family": "Asparagaceae",
+    "botanical": "Liriope sp.",
+    "common": "liriope",
+    "botanicalAccept": [
+      "liriope",
+      "liriope sp",
+      "liriope spp",
+      "liriope species",
+      "liriope muscari",
+      "liriope spicata"
+    ],
+    "commonAccept": [
+      "lilyturf",
+      "lily turf",
+      "big blue lilyturf",
+      "monkey grass",
+      "border grass"
+    ],
+    "search": {
+      "names": [
+        "Liriope muscari",
+        "Liriope spicata"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "In bloom",
+          "title": "2020-09-11 17 35 55 Lilyturf blooming along Centerview Drive in Chantilly, Fairfax County, Virginia.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Liriope muscari - Floraison.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Liriope muscari 2zz.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Liriope spicata kz2 (cropped).jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Liriope spicata 5729.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "erigeron-karvinskianus",
+    "list": "List 5",
+    "family": "Asteraceae",
+    "botanical": "Erigeron karvinskianus",
+    "common": "Santa Barbara daisy",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "mexican fleabane",
+      "latin american fleabane",
+      "mexican daisy",
+      "seaside daisy",
+      "fleabane",
+      "bony-tip fleabane",
+      "santa barbara daisies"
+    ],
+    "search": {
+      "names": [
+        "Erigeron karvinskianus"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Starr-090513-7547-Erigeron karvinskianus-flowers-Polipoli-Maui (24587088149).jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Erigeron karvinskianus5.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Starr 070621-7437 Erigeron karvinskianus.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Mexican fleabane growing on wall.jpg"
+        },
+        {
+          "part": "White and pink",
+          "title": "Starr-100603-6874-Erigeron karvinskianus-flowers-Polipoli-Maui (24921798562).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "centranthus-ruber",
+    "list": "List 5",
+    "family": "Caprifoliaceae",
+    "botanical": "Centranthus ruber",
+    "common": "red valerian",
+    "botanicalAccept": [
+      "valeriana rubra",
+      "kentranthus ruber"
+    ],
+    "commonAccept": [
+      "jupiter's beard",
+      "jupiters beard",
+      "red valarian",
+      "spur valerian",
+      "kiss-me-quick",
+      "fox's brush",
+      "devil's beard",
+      "valerian"
+    ],
+    "search": {
+      "names": [
+        "Centranthus ruber",
+        "Valeriana rubra"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Centranthus ruber 01.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Centranthus ruber form.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Centranthus ruber Ostrogowiec czerwony 2015 06.jpg"
+        },
+        {
+          "part": "On a wall",
+          "title": "7-Centranthe rouge - centrathus ruber.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Centranthus ruber in Stari Grad, Hvar, Croatia 20230527 03.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "euphorbia",
+    "list": "List 5",
+    "family": "Euphorbiaceae",
+    "botanical": "Euphorbia sp.",
+    "common": "euphorbia",
+    "botanicalAccept": [
+      "euphorbia",
+      "euphorbia sp",
+      "euphorbia spp",
+      "euphorbia species",
+      "euphorbia characias",
+      "euphorbia characias wulfenii",
+      "euphorbia rigida",
+      "euphorbia myrsinites",
+      "euphorbia x martinii"
+    ],
+    "commonAccept": [
+      "euphorbias",
+      "spurge",
+      "spurges",
+      "mediterranean spurge"
+    ],
+    "search": {
+      "names": [
+        "Euphorbia characias",
+        "Euphorbia characias subsp. wulfenii",
+        "Euphorbia rigida"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Euphorbia characias JdP 2013-04-28.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Euphorbia-characias-total2.JPG"
+        },
+        {
+          "part": "Leaves",
+          "title": "Euphorbia characias 2011.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Euphorbia characias (flowers).jpg"
+        },
+        {
+          "part": "In flower",
+          "title": "Euphorbia characias 01.JPG"
+        }
+      ]
+    }
+  },
+  {
+    "id": "muhlenbergia-rigens",
+    "list": "List 5",
+    "family": "Poaceae",
+    "botanical": "Muhlenbergia rigens",
+    "common": "deer grass",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "deergrass",
+      "deer-grass",
+      "deer muhly",
+      "california deergrass"
+    ],
+    "search": {
+      "names": [
+        "Muhlenbergia rigens"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "Muhlenbergia rigens - San Luis Obispo Botanical Garden - DSC06121.JPG"
+        },
+        {
+          "part": "Clump",
+          "title": "Muhlenbergia rigens form.jpg"
+        },
+        {
+          "part": "Inflorescence",
+          "title": "Muhlenbergia rigens stem.jpg"
+        },
+        {
+          "part": "Close-up",
+          "title": "Muhlenbergia rigens flowers with exserted stamens 2002-11-18.jpg"
+        },
+        {
+          "part": "Planting",
+          "title": "Muhlenbergia rigens - deergrass - Flickr - Matt Lavin.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "echinacea",
+    "list": "List 5",
+    "quizzed": "Quiz 5",
+    "family": "Asteraceae",
+    "botanical": "Echinacea sp.",
+    "common": "coneflower",
+    "botanicalAccept": [
+      "echinacea",
+      "echinacea sp",
+      "echinacea spp",
+      "echinacea species",
+      "echinacea purpurea",
+      "echinacea pallida",
+      "echinacea paradoxa"
+    ],
+    "commonAccept": [
+      "coneflowers",
+      "purple coneflower",
+      "cone flower",
+      "echinacea"
+    ],
+    "search": {
+      "names": [
+        "Echinacea purpurea",
+        "Echinacea"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "More Cone Flowers On The Way (113906785).jpeg"
+        },
+        {
+          "part": "Habit",
+          "title": "Gardenology.org-IMG 6852 hunt09jun.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "geranium",
+    "list": "List 5",
+    "family": "Geraniaceae",
+    "botanical": "Geranium sp.",
+    "common": "geranium",
+    "botanicalAccept": [
+      "geranium",
+      "geranium sp",
+      "geranium spp",
+      "geranium species",
+      "geranium sanguineum",
+      "geranium maderense",
+      "geranium x cantabrigiense",
+      "geranium x oxonianum",
+      "geranium macrorrhizum",
+      "geranium incanum"
+    ],
+    "commonAccept": [
+      "geraniums",
+      "cranesbill",
+      "cranesbills",
+      "crane's bill",
+      "hardy geranium",
+      "true geranium"
+    ],
+    "note": "True geraniums (cranesbills), not the Pelargonium from List 3.",
+    "search": {
+      "names": [
+        "Geranium sanguineum",
+        "Geranium × oxonianum",
+        "Geranium"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "2006-06-20 Bloody Crane's-bill, Hauxley, Northumberland 1.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Geranium sanguineum kz21.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "euryops-pectinatus",
+    "list": "List 5",
+    "quizzed": "Quiz 5",
+    "family": "Asteraceae",
+    "botanical": "Euryops pectinatus",
+    "common": "golden euryops",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "euryops",
+      "euryops daisy",
+      "gray-leaved euryops",
+      "grey-leaved euryops",
+      "yellow bush daisy",
+      "golden daisy bush",
+      "golden shrub daisy",
+      "resin bush"
+    ],
+    "search": {
+      "names": [
+        "Euryops pectinatus"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "Euryops pectinatus 2.jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Euryops pectinatus 1DS-II 6001-02.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "escallonia",
+    "list": "List 6",
+    "family": "Escalloniaceae",
+    "botanical": "Escallonia sp.",
+    "common": "escallonia",
+    "botanicalAccept": [
+      "escallonia",
+      "escallonia sp",
+      "escallonia spp",
+      "escallonia species",
+      "escallonia rubra",
+      "escallonia x exoniensis",
+      "escallonia exoniensis",
+      "escallonia x langleyensis"
+    ],
+    "commonAccept": [
+      "escallonias"
+    ],
+    "search": {
+      "names": [
+        "Escallonia rubra",
+        "Escallonia",
+        "Escallonia × exoniensis"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Escallonia rubra - San Francisco Botanical Garden.jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "Escallonia rubra var. macrantha - 1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cuphea-hyssopifolia",
+    "list": "List 6",
+    "family": "Lythraceae",
+    "botanical": "Cuphea hyssopifolia",
+    "common": "false heather",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "mexican heather",
+      "elfin herb",
+      "hawaiian heather"
+    ],
+    "search": {
+      "names": [
+        "Cuphea hyssopifolia"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Small Flower (About 2 cm).JPG"
+        },
+        {
+          "part": "Close-up",
+          "title": "Cuphea hyssopifolia flower in Ishigaki, Okinawa 1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "phormium-tenax",
+    "list": "List 6",
+    "family": "Asphodelaceae",
+    "botanical": "Phormium tenax",
+    "common": "New Zealand flax",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "new zealand flax lily",
+      "nz flax",
+      "harakeke",
+      "flax",
+      "new-zealand flax"
+    ],
+    "search": {
+      "names": [
+        "Phormium tenax"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "Phormium tenax in Paparoa NP 01.jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Phormium tenax J.R.Forst. and G.Forst. (AM AK298899-2).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "elegia-tectorum",
+    "list": "List 6",
+    "family": "Restionaceae",
+    "botanical": "Elegia tectorum",
+    "common": "Cape rush",
+    "botanicalAccept": [
+      "chondropetalum tectorum"
+    ],
+    "commonAccept": [
+      "cape thatching reed",
+      "thatching reed",
+      "cape reed",
+      "dekriet",
+      "small cape rush"
+    ],
+    "note": "Formerly Chondropetalum tectorum; that name is accepted too.",
+    "search": {
+      "names": [
+        "Elegia tectorum",
+        "Chondropetalum tectorum"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "Elegia tectorum KirstenboshBotGard09292010A.JPG"
+        },
+        {
+          "part": "Clump",
+          "title": "Elegia tectorum (Chondropetalum tectorum) - San Francisco Botanical Garden - DSC09904.JPG"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dietes",
+    "list": "List 6",
+    "family": "Iridaceae",
+    "botanical": "Dietes sp.",
+    "common": "fortnight lily",
+    "botanicalAccept": [
+      "dietes",
+      "dietes sp",
+      "dietes spp",
+      "dietes species",
+      "dietes iridioides",
+      "dietes bicolor",
+      "dietes grandiflora",
+      "dietes vegeta"
+    ],
+    "commonAccept": [
+      "fortnight lilies",
+      "african iris",
+      "butterfly iris",
+      "wild iris",
+      "morea iris"
+    ],
+    "search": {
+      "names": [
+        "Dietes iridioides",
+        "Dietes bicolor",
+        "Dietes grandiflora"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Two flowers Sydney.JPG"
+        },
+        {
+          "part": "Habit",
+          "title": "Dietes iridioides kz1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nephrolepis-cordifolia",
+    "list": "List 6",
+    "family": "Polypodiaceae",
+    "botanical": "Nephrolepis cordifolia",
+    "common": "southern sword fern",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "sword fern",
+      "tuberous sword fern",
+      "fishbone fern",
+      "erect sword fern",
+      "narrow sword fern",
+      "ladder fern",
+      "tuber ladder fern",
+      "southern swordfern"
+    ],
+    "note": "Often placed in Nephrolepidaceae or Lomariopsidaceae in other references.",
+    "search": {
+      "names": [
+        "Nephrolepis cordifolia"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Fronds",
+          "title": "Nephrolepis cordifolia fronds.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Starr 070221-4858 Nephrolepis cordifolia.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "antirrhinum-majus",
+    "list": "List 6",
+    "family": "Plantaginaceae",
+    "botanical": "Antirrhinum majus",
+    "common": "snapdragon",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "snapdragons",
+      "common snapdragon",
+      "garden snapdragon",
+      "dragon flower"
+    ],
+    "search": {
+      "names": [
+        "Antirrhinum majus"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Flower (29810629414).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Antirrhinum majus view.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lobelia",
+    "list": "List 6",
+    "family": "Campanulaceae",
+    "botanical": "Lobelia sp.",
+    "common": "lobelia",
+    "botanicalAccept": [
+      "lobelia",
+      "lobelia sp",
+      "lobelia spp",
+      "lobelia species",
+      "lobelia erinus",
+      "lobelia cardinalis",
+      "lobelia laxiflora"
+    ],
+    "commonAccept": [
+      "lobelias",
+      "edging lobelia",
+      "trailing lobelia",
+      "garden lobelia"
+    ],
+    "search": {
+      "names": [
+        "Lobelia erinus",
+        "Lobelia"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Lobelia erinus (ptfsk).JPG"
+        },
+        {
+          "part": "Habit",
+          "title": "Dog on the Rails (8878968149).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "celosia",
+    "list": "List 6",
+    "family": "Amaranthaceae",
+    "botanical": "Celosia sp.",
+    "common": "cockscomb",
+    "botanicalAccept": [
+      "celosia",
+      "celosia sp",
+      "celosia spp",
+      "celosia species",
+      "celosia argentea",
+      "celosia cristata",
+      "celosia argentea var cristata",
+      "celosia plumosa"
+    ],
+    "commonAccept": [
+      "cock's comb",
+      "cocks comb",
+      "cockscombs",
+      "celosia",
+      "plumed cockscomb",
+      "woolflower",
+      "wool flower"
+    ],
+    "search": {
+      "names": [
+        "Celosia argentea var. cristata",
+        "Celosia cristata",
+        "Celosia argentea"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Ground Flower (67401655).jpeg"
+        },
+        {
+          "part": "Habit",
+          "title": "CelosiaCristata2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "petunia",
+    "list": "List 6",
+    "family": "Solanaceae",
+    "botanical": "Petunia sp.",
+    "common": "petunia",
+    "botanicalAccept": [
+      "petunia",
+      "petunia sp",
+      "petunia spp",
+      "petunia species",
+      "petunia x hybrida",
+      "petunia hybrida",
+      "petunia x atkinsiana",
+      "petunia atkinsiana"
+    ],
+    "commonAccept": [
+      "petunias",
+      "garden petunia",
+      "common petunia"
+    ],
+    "search": {
+      "names": [
+        "Petunia × atkinsiana",
+        "Petunia hybrida",
+        "Petunia"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Petunia lilafärg.JPG"
+        },
+        {
+          "part": "Habit",
+          "title": "Petunia from lalbagh 2012.JPG"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cosmos-atrosanguineus",
+    "list": "List 6",
+    "family": "Asteraceae",
+    "botanical": "Cosmos atrosanguineus",
+    "common": "chocolate cosmos",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "chocolate cosmo",
+      "black cosmos"
+    ],
+    "search": {
+      "names": [
+        "Cosmos atrosanguineus"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "October 20th. Chocolate Cosmos (8105379543).jpg"
+        },
+        {
+          "part": "Leaves",
+          "title": "20210731 Hortus botanicus Leiden - 05 - Cosmos atrosanguineus.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "westringia-morning-light",
+    "list": "List 6",
+    "family": "Lamiaceae",
+    "botanical": "Westringia fruticosa 'Morning Light'",
+    "common": "morning light Australian rosemary",
+    "botanicalAccept": [
+      "westringia fruticosa morning light",
+      "westringia fruticosa cv morning light",
+      "westringia morning light"
+    ],
+    "commonAccept": [
+      "morning light coast rosemary",
+      "morning light coastal rosemary",
+      "australian rosemary morning light",
+      "coast rosemary morning light",
+      "variegated australian rosemary",
+      "morning light westringia",
+      "morning light"
+    ],
+    "botanicalPartial": [
+      "westringia fruticosa",
+      "westringia"
+    ],
+    "note": "Photos may show the plain species; 'Morning Light' has cream-edged leaves.",
+    "search": {
+      "names": [
+        "Westringia fruticosa"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "Westringia fruticosa 01.jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Coastal Rosemary flowers (6017541343).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "clivia-miniata",
+    "list": "List 6",
+    "family": "Amaryllidaceae",
+    "botanical": "Clivia miniata",
+    "common": "Natal lily",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "natal lilies",
+      "bush lily",
+      "kaffir lily",
+      "fire lily",
+      "clivia",
+      "orange clivia"
+    ],
+    "search": {
+      "names": [
+        "Clivia miniata"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Clivia miniata Kliwia cynobrowa 2024-01-20 Malaga 07.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Clivia miniata kz05.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "encelia-californica",
+    "list": "List 6",
+    "family": "Asteraceae",
+    "botanical": "Encelia californica",
+    "common": "California brittlebush",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "california brittle bush",
+      "california encelia",
+      "coast sunflower",
+      "bush sunflower",
+      "california bush sunflower",
+      "brittlebush"
+    ],
+    "search": {
+      "names": [
+        "Encelia californica"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Encelia californica (27535217585).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Encelia californica - Manhattan Beach Botanical Garden - Manhattan Beach, CA - DSC01304.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "carex-divulsa",
+    "list": "List 7",
+    "family": "Cyperaceae",
+    "botanical": "Carex divulsa",
+    "common": "Berkeley sedge",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "berkeley sedges",
+      "grassland sedge",
+      "grey sedge",
+      "gray sedge"
+    ],
+    "search": {
+      "names": [
+        "Carex divulsa"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "Carex divulsa - Leaning Pine Arboretum - DSC05830.JPG"
+        },
+        {
+          "part": "Inflorescence",
+          "title": "Carex divulsa 2 (G. Nitter).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "agapanthus",
+    "list": "List 7",
+    "family": "Amaryllidaceae",
+    "botanical": "Agapanthus sp.",
+    "common": "lily of the Nile",
+    "botanicalAccept": [
+      "agapanthus",
+      "agapanthus sp",
+      "agapanthus spp",
+      "agapanthus species",
+      "agapanthus africanus",
+      "agapanthus praecox",
+      "agapanthus orientalis"
+    ],
+    "commonAccept": [
+      "lily-of-the-nile",
+      "lilies of the nile",
+      "african lily",
+      "agapanthus"
+    ],
+    "search": {
+      "names": [
+        "Agapanthus praecox",
+        "Agapanthus africanus",
+        "Agapanthus"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Agapanthus praecox-IMG 9358.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Agapanthus praecox-IMG 8736.JPG"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hemerocallis",
+    "list": "List 7",
+    "family": "Asphodelaceae",
+    "botanical": "Hemerocallis sp.",
+    "common": "daylily",
+    "botanicalAccept": [
+      "hemerocallis",
+      "hemerocallis sp",
+      "hemerocallis spp",
+      "hemerocallis species",
+      "hemerocallis fulva",
+      "hemerocallis hybrids"
+    ],
+    "commonAccept": [
+      "day lily",
+      "daylilies",
+      "day lilies"
+    ],
+    "search": {
+      "names": [
+        "Hemerocallis",
+        "Hemerocallis fulva"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "DayLily.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "2023-06-16 15 45 29 Day lily blooming along Barbara Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zinnia-elegans",
+    "list": "List 7",
+    "family": "Asteraceae",
+    "botanical": "Zinnia elegans",
+    "common": "zinnia",
+    "botanicalAccept": [
+      "zinnia violacea"
+    ],
+    "commonAccept": [
+      "zinnias",
+      "common zinnia",
+      "garden zinnia",
+      "youth and age",
+      "youth-and-age"
+    ],
+    "search": {
+      "names": [
+        "Zinnia elegans"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Zinnia elegans, Festival Theatre garden, Stratford, Ontario, 2025-08-04 02.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Blumenbeet bunt Heidelberg.JPG"
+        }
+      ]
+    }
+  },
+  {
+    "id": "santolina-chamaecyparissus",
+    "list": "List 7",
+    "family": "Asteraceae",
+    "botanical": "Santolina chamaecyparissus",
+    "common": "lavender cotton",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "cotton lavender",
+      "lavender-cotton",
+      "santolina",
+      "gray santolina",
+      "grey santolina"
+    ],
+    "search": {
+      "names": [
+        "Santolina chamaecyparissus"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Santolina chamaecyparissus, macro.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Gardenology.org-IMG 2696 rbgs11jan.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "phlomis-purpurea",
+    "list": "List 7",
+    "family": "Lamiaceae",
+    "botanical": "Phlomis purpurea",
+    "common": "purple Jerusalem sage",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "purple jerusalem-sage",
+      "jerusalem sage",
+      "purple phlomis"
+    ],
+    "search": {
+      "names": [
+        "Phlomis purpurea"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Phlomis purpurea purpurea - Flickr - gailhampshire.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Phlomis purpurea kz18.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "agastache-rupestris",
+    "list": "List 7",
+    "family": "Lamiaceae",
+    "botanical": "Agastache rupestris",
+    "common": "sunset hyssop",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "threadleaf giant hyssop",
+      "rock anise hyssop",
+      "licorice mint",
+      "sunset hyssops"
+    ],
+    "search": {
+      "names": [
+        "Agastache rupestris"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Habit",
+          "title": "Agastache rupestre.jpg"
+        },
+        {
+          "part": "Flowers",
+          "title": "Agastache rupestris1 lg.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eryngium-amethystinum",
+    "list": "List 7",
+    "family": "Apiaceae",
+    "botanical": "Eryngium amethystinum",
+    "common": "amethyst sea holly",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "amethyst sea-holly",
+      "sea holly",
+      "amethyst eryngo",
+      "italian eryngo"
+    ],
+    "search": {
+      "names": [
+        "Eryngium amethystinum"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Eryngium amethystinum Mikołajek ametystowy 2020-07-28 02.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Eryngium July 2011-1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dahlia",
+    "list": "List 7",
+    "family": "Asteraceae",
+    "botanical": "Dahlia cvs.",
+    "common": "garden dahlia",
+    "botanicalAccept": [
+      "dahlia",
+      "dahlia sp",
+      "dahlia spp",
+      "dahlia species",
+      "dahlia cvs",
+      "dahlia cv",
+      "dahlia cultivars",
+      "dahlia hybrids",
+      "dahlia x hybrida",
+      "dahlia hybrida",
+      "dahlia pinnata",
+      "dahlia variabilis"
+    ],
+    "commonAccept": [
+      "dahlia",
+      "dahlias",
+      "garden dahlias"
+    ],
+    "search": {
+      "names": [
+        "Dahlia pinnata",
+        "Dahlia"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "20261024.Dahliengarten (Großer Garten).-019.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "20261014.Dahliengarten (Großer Garten).-024.1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "limonium-perezii",
+    "list": "List 7",
+    "family": "Plumbaginaceae",
+    "botanical": "Limonium perezii",
+    "common": "sea lavender / statice",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "sea lavender",
+      "statice",
+      "sea lavender statice",
+      "statice sea lavender",
+      "sea-lavender",
+      "perez's sea lavender",
+      "perezs sea lavender",
+      "perez sea lavender",
+      "perez's statice",
+      "perezs statice"
+    ],
+    "search": {
+      "names": [
+        "Limonium perezii"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Limonium perezii 7zz.jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Giant Statice (Limonium perezii) (32376587148).jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tulbaghia-violacea",
+    "list": "List 7",
+    "family": "Amaryllidaceae",
+    "botanical": "Tulbaghia violacea",
+    "common": "society garlic",
+    "botanicalAccept": [],
+    "commonAccept": [
+      "wild garlic",
+      "pink agapanthus",
+      "sweet garlic"
+    ],
+    "search": {
+      "names": [
+        "Tulbaghia violacea"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Tulbaghia violacea in Botanischer Garten Muenster (2).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Tulbaghia violacea-Ail d'Afrique-20210705.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lobularia-maritima",
+    "list": "List 7",
+    "family": "Brassicaceae",
+    "botanical": "Lobularia maritima",
+    "common": "sweet alyssum",
+    "botanicalAccept": [
+      "alyssum maritimum"
+    ],
+    "commonAccept": [
+      "alyssum",
+      "sweet alison",
+      "sweet alyssums"
+    ],
+    "search": {
+      "names": [
+        "Lobularia maritima"
+      ],
+      "parts": {},
+      "files": [
+        {
+          "part": "Flowers",
+          "title": "Alyssum maritimum (Lobularia maritima).jpg"
+        },
+        {
+          "part": "Habit",
+          "title": "Caps blancs pel Bellveret, Xàtiva.jpg"
         }
       ]
     }

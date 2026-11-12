@@ -6,6 +6,8 @@
   const images = DATA.images || {};
   const LIST_KEY = "plantid-list"; // only the chosen list is remembered, never answers
   const ALL = "__all__";
+  const QUIZ = "__quiz__"; // every plant not yet on a class quiz
+  const quizPlants = allPlants.filter((p) => !p.quizzed);
 
   const $ = (id) => document.getElementById(id);
   const grid = $("images");
@@ -75,6 +77,12 @@
       opt.textContent = `All lists (${allPlants.length} plants)`;
       listSelect.appendChild(opt);
     }
+    if (quizPlants.length) {
+      const opt = document.createElement("option");
+      opt.value = QUIZ;
+      opt.textContent = `Quiz (${quizPlants.length} plants not yet quizzed)`;
+      listSelect.appendChild(opt);
+    }
     let chosen = null;
     try {
       chosen = localStorage.getItem(LIST_KEY);
@@ -86,7 +94,12 @@
   }
 
   function setList(name) {
-    plants = name === ALL ? allPlants : allPlants.filter((p) => (p.list || "Plants") === name);
+    plants =
+      name === ALL
+        ? allPlants
+        : name === QUIZ
+          ? quizPlants
+          : allPlants.filter((p) => (p.list || "Plants") === name);
     order = plants.map((_, i) => i);
     pos = 0;
     try {
@@ -312,7 +325,7 @@
     const plant = allPlants.find((p) => p.id === id);
     if (!plant) return false;
     const listName = plant.list || "Plants";
-    if (listSelect.value !== listName && listSelect.value !== ALL) {
+    if (!plants.includes(plant)) {
       listSelect.value = listName;
       setList(listName);
     }

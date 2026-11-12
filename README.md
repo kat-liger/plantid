@@ -12,6 +12,9 @@ https://kat-liger.github.io/plantid/. No server or build step needed.
 
 - Pick a plant list from the dropdown at the top. The newest list is shown
   by default; "All lists" combines them.
+- **Quiz** holds every plant that hasn't been on a class quiz yet. Plants
+  that were on a quiz have a `"quizzed": "Quiz N"` field in `plants.json`;
+  add that field after each new quiz to take them out.
 - Names are checked as you type. Capitalization, quotes, accents and the `×`
   in hybrid names don't matter (`nepeta x faassenii walkers low` is fine).
 - `Heuchera`, `Heuchera sp.` and `Heuchera species` are all accepted for
@@ -33,7 +36,7 @@ alternates, a `list` name (the dropdown groups plants by it), an optional
 `family` (shown once the name is known), and the Wikimedia Commons search
 terms used to find photos. An entry with `"skip": true` is kept in the file
 but hidden from the quiz (used for the "skip this week" plants). List names
-follow the class handouts: "Lists 1–2", "List 3", "List 4". After editing,
+follow the class handouts: "Lists 1–2", "List 3" … "List 7". After editing,
 regenerate `data.js`:
 
 ```sh

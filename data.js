@@ -36,7 +36,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "heuchera",
@@ -66,7 +67,8 @@ window.PLANT_DATA = {
      "Close-up": "inflorescence"
     }
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "arbutus-unedo",
@@ -86,7 +88,8 @@ window.PLANT_DATA = {
      "Habit": "tree"
     }
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "salvia-rosmarinus",
@@ -108,7 +111,8 @@ window.PLANT_DATA = {
      "Close-up": "flower"
     }
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "ginkgo-biloba",
@@ -188,7 +192,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "juncus",
@@ -219,7 +224,8 @@ window.PLANT_DATA = {
      "Close-up": "flowers"
     }
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "cotinus-coggygria",
@@ -282,7 +288,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "heteromeles-arbutifolia",
@@ -354,7 +361,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "vitis-californica-rogers-red",
@@ -391,7 +399,8 @@ window.PLANT_DATA = {
      "Bark": "bark"
     }
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "plumbago-auriculata",
@@ -417,7 +426,8 @@ window.PLANT_DATA = {
      "Close-up": "flower"
     }
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "melianthus-major",
@@ -454,7 +464,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 1"
   },
   {
    "id": "diplacus-eleanor",
@@ -505,7 +516,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "nepeta-walkers-low",
@@ -579,7 +591,8 @@ window.PLANT_DATA = {
      "Close-up": "flower"
     }
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 3"
   },
   {
    "id": "oenothera-lindheimeri",
@@ -625,7 +638,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "salvia-apiana",
@@ -660,7 +674,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "romneya-coulteri",
@@ -701,7 +716,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "scabiosa-columbaria",
@@ -742,7 +758,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "salvia-pozo-blue",
@@ -811,7 +828,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "salvia-yangii",
@@ -853,7 +871,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "verbena-bonariensis",
@@ -935,7 +954,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "eschscholzia-californica",
@@ -978,7 +998,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 3"
   },
   {
    "id": "nemophila-menziesii",
@@ -1013,7 +1034,8 @@ window.PLANT_DATA = {
      }
     ]
    },
-   "list": "Lists 1–2"
+   "list": "Lists 1–2",
+   "quizzed": "Quiz 2"
   },
   {
    "id": "layia-platyglossa",
@@ -1042,6 +1064,7 @@ window.PLANT_DATA = {
   {
    "id": "glandularia-lilacina-de-la-mina",
    "list": "List 3",
+   "quizzed": "Quiz 3",
    "botanical": "Glandularia lilacina 'De La Mina'",
    "common": "lilac verbena",
    "botanicalAccept": [
@@ -1094,6 +1117,7 @@ window.PLANT_DATA = {
   {
    "id": "salvia-microphylla",
    "list": "List 3",
+   "quizzed": "Quiz 3",
    "botanical": "Salvia microphylla",
    "common": "littleleaf sage",
    "botanicalAccept": [],
@@ -1136,6 +1160,7 @@ window.PLANT_DATA = {
   {
    "id": "rosa",
    "list": "List 3",
+   "quizzed": "Quiz 4",
    "botanical": "Rosa sp.",
    "common": "rose",
    "botanicalAccept": [
@@ -1186,6 +1211,7 @@ window.PLANT_DATA = {
   {
    "id": "leonotis-leonurus",
    "list": "List 3",
+   "quizzed": "Quiz 3",
    "botanical": "Leonotis leonurus",
    "common": "lion's tail",
    "botanicalAccept": [],
@@ -1315,6 +1341,7 @@ window.PLANT_DATA = {
   {
    "id": "gaillardia",
    "list": "List 3",
+   "quizzed": "Quiz 3",
    "botanical": "Gaillardia sp.",
    "common": "blanket flowers",
    "botanicalAccept": [
@@ -1369,6 +1396,7 @@ window.PLANT_DATA = {
   {
    "id": "pelargonium",
    "list": "List 3",
+   "quizzed": "Quiz 4",
    "botanical": "Pelargonium sp.",
    "common": "geranium",
    "botanicalAccept": [
@@ -1453,6 +1481,7 @@ window.PLANT_DATA = {
   {
    "id": "lavandula-dentata-variegata",
    "list": "List 3",
+   "quizzed": "Quiz 3",
    "botanical": "Lavandula dentata 'Variegata'",
    "common": "variegated French lavender",
    "botanicalAccept": [
@@ -1504,6 +1533,7 @@ window.PLANT_DATA = {
   {
    "id": "calendula-officinalis",
    "list": "List 3",
+   "quizzed": "Quiz 5",
    "botanical": "Calendula officinalis",
    "common": "pot marigold",
    "botanicalAccept": [],
@@ -1545,6 +1575,7 @@ window.PLANT_DATA = {
   {
    "id": "iris-germanica",
    "list": "List 3",
+   "quizzed": "Quiz 3",
    "botanical": "Iris × germanica",
    "common": "bearded iris",
    "botanicalAccept": [
@@ -1636,6 +1667,7 @@ window.PLANT_DATA = {
   {
    "id": "achillea-millefolium",
    "list": "List 3",
+   "quizzed": "Quiz 3",
    "botanical": "Achillea millefolium",
    "common": "yarrow",
    "botanicalAccept": [],
@@ -1659,6 +1691,7 @@ window.PLANT_DATA = {
   {
    "id": "zephyranthes-candida",
    "list": "List 3",
+   "quizzed": "Quiz 3",
    "botanical": "Zephyranthes candida",
    "common": "white rain lily",
    "botanicalAccept": [
@@ -1689,6 +1722,7 @@ window.PLANT_DATA = {
   {
    "id": "lavandula-stoechas",
    "list": "List 3",
+   "quizzed": "Quiz 4",
    "botanical": "Lavandula stoechas",
    "common": "Spanish lavender",
    "botanicalAccept": [],
@@ -1712,6 +1746,7 @@ window.PLANT_DATA = {
   {
    "id": "epilobium-canum",
    "list": "List 4",
+   "quizzed": "Quiz 4",
    "family": "Onagraceae",
    "botanical": "Epilobium canum",
    "common": "California fuchsia",
@@ -1797,6 +1832,7 @@ window.PLANT_DATA = {
   {
    "id": "lavandula-angustifolia",
    "list": "List 4",
+   "quizzed": "Quiz 4",
    "family": "Lamiaceae",
    "botanical": "Lavandula angustifolia",
    "common": "English lavender",
@@ -1898,6 +1934,7 @@ window.PLANT_DATA = {
   {
    "id": "gambelia-speciosa",
    "list": "List 4",
+   "quizzed": "Quiz 4",
    "family": "Plantaginaceae",
    "botanical": "Gambelia speciosa",
    "common": "island snapdragon",
@@ -1973,6 +2010,7 @@ window.PLANT_DATA = {
   {
    "id": "sphaeralcea-ambigua",
    "list": "List 4",
+   "quizzed": "Quiz 4",
    "family": "Malvaceae",
    "botanical": "Sphaeralcea ambigua",
    "common": "apricot mallow",
@@ -2016,6 +2054,7 @@ window.PLANT_DATA = {
   {
    "id": "chrysanthemum",
    "list": "List 4",
+   "quizzed": "Quiz 5",
    "family": "Asteraceae",
    "botanical": "Chrysanthemum sp.",
    "common": "mums",
@@ -2075,6 +2114,7 @@ window.PLANT_DATA = {
   {
    "id": "solidago",
    "list": "List 4",
+   "quizzed": "Quiz 4",
    "family": "Asteraceae",
    "botanical": "Solidago sp.",
    "common": "goldenrod",
@@ -2127,6 +2167,7 @@ window.PLANT_DATA = {
   {
    "id": "asclepias-fascicularis",
    "list": "List 4",
+   "quizzed": "Quiz 4",
    "family": "Apocynaceae",
    "botanical": "Asclepias fascicularis",
    "common": "narrowleaf milkweed",
@@ -2213,6 +2254,7 @@ window.PLANT_DATA = {
   {
    "id": "salvia-leucantha",
    "list": "List 4",
+   "quizzed": "Quiz 5",
    "family": "Lamiaceae",
    "botanical": "Salvia leucantha",
    "common": "Mexican bush sage",
@@ -2255,6 +2297,7 @@ window.PLANT_DATA = {
   {
    "id": "tagetes-lemmonii",
    "list": "List 4",
+   "quizzed": "Quiz 4",
    "family": "Asteraceae",
    "botanical": "Tagetes lemmonii",
    "common": "Lemmon's marigold",
@@ -2293,6 +2336,1610 @@ window.PLANT_DATA = {
      {
       "part": "Foliage",
       "title": "Gardenology.org-IMG 2853 rbgs11jan.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "asparagus-densiflorus",
+   "list": "List 5",
+   "family": "Asparagaceae",
+   "botanical": "Asparagus densiflorus",
+   "common": "asparagus fern / foxtail fern",
+   "botanicalAccept": [
+    "asparagus aethiopicus",
+    "protasparagus densiflorus",
+    "asparagus densiflorus myers",
+    "asparagus densiflorus sprengeri"
+   ],
+   "commonAccept": [
+    "asparagus fern",
+    "foxtail fern",
+    "asparagus fern foxtail fern",
+    "foxtail fern asparagus fern",
+    "foxtail asparagus fern",
+    "sprenger's asparagus",
+    "sprengers asparagus",
+    "emerald fern",
+    "asparagus-fern",
+    "foxtail"
+   ],
+   "search": {
+    "names": [
+     "Asparagus densiflorus",
+     "Asparagus aethiopicus"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "Ekor Tupai.jpg"
+     },
+     {
+      "part": "Foliage",
+      "title": "Asparagus sprengeri.jpg"
+     },
+     {
+      "part": "Berries",
+      "title": "Starr 071024-9920 Asparagus densiflorus.jpg"
+     },
+     {
+      "part": "Flowers",
+      "title": "Asparagus aethiopicus aka Sprenger's Asparagus.jpg"
+     },
+     {
+      "part": "Foxtail fronds",
+      "title": "Ramat aNadiv park, Israel (12742558783).jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "lantana-camara",
+   "list": "List 5",
+   "quizzed": "Quiz 5",
+   "family": "Verbenaceae",
+   "botanical": "Lantana camara",
+   "common": "yellow lantana",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "lantana",
+    "common lantana",
+    "yellow sage",
+    "big-sage",
+    "wild sage",
+    "spanish flag",
+    "shrub verbena"
+   ],
+   "search": {
+    "names": [
+     "Lantana camara"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Common Lantana (Lantana camara) growing in Ponnani, Kerala 20.jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "Common Lantana (Lantana camara) growing in Ponnani, Kerala 06.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Lantana camara (do tupi kamará) de flores amarelas 02.jpg"
+     },
+     {
+      "part": "Fruit",
+      "title": "לנטנה ססגונית – פירות ירוקים ובשלים באותה תפרחת 1577.jpg"
+     },
+     {
+      "part": "Other colors",
+      "title": "Multicoloured Common Lantana (Lantana camara) Growing in Ponnani, Kerala 05.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "polygala",
+   "list": "List 5",
+   "quizzed": "Quiz 5",
+   "family": "Polygalaceae",
+   "botanical": "Polygala sp.",
+   "common": "polygala",
+   "botanicalAccept": [
+    "polygala",
+    "polygala sp",
+    "polygala spp",
+    "polygala species",
+    "polygala x grandiflora",
+    "polygala grandiflora",
+    "polygala fruticosa",
+    "polygala myrtifolia",
+    "polygala x dalmaisiana",
+    "polygala dalmaisiana"
+   ],
+   "commonAccept": [
+    "polygalas",
+    "sweet pea shrub",
+    "milkwort",
+    "september bush",
+    "myrtle-leaf milkwort"
+   ],
+   "search": {
+    "names": [
+     "Polygala myrtifolia",
+     "Polygala × dalmaisiana",
+     "Polygala fruticosa"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Polygala myrtifolia (var. grandiflora)-1.JPG"
+     },
+     {
+      "part": "Close-up",
+      "title": "POLYGALA myrtifolia. jpg.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Polygala myrtifolia 1.jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Polygala myrtifolia Krzyżownica 2024-01-20 Malaga 02.jpg"
+     },
+     {
+      "part": "Shrub",
+      "title": "Polygala myrtifolia kz4.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "id": "coleonema-pulchellum",
+   "list": "List 5",
+   "quizzed": "Quiz 5",
+   "family": "Rutaceae",
+   "botanical": "Coleonema pulchellum",
+   "common": "pink breath of heaven",
+   "botanicalAccept": [
+    "coleonema pulchrum"
+   ],
+   "commonAccept": [
+    "breath of heaven",
+    "pink breath-of-heaven",
+    "confetti bush",
+    "pink diosma",
+    "diosma"
+   ],
+   "search": {
+    "names": [
+     "Coleonema pulchellum",
+     "Coleonema pulchrum"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Coleonema pulchellum 1DS-II 2-1060.jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "Coleonema pulchellum 1DS-II 3-5358.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Coleonema pulchellum 'Compact Form' kz01.jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Coleonema pulchellum kz2.jpg"
+     },
+     {
+      "part": "Branches",
+      "title": "Coleonema pulchellum 0194.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "cordyline-australis",
+   "list": "List 5",
+   "family": "Asparagaceae",
+   "botanical": "Cordyline australis",
+   "common": "cabbage tree",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "cabbage palm",
+    "new zealand cabbage tree",
+    "cabbage-tree",
+    "ti kouka",
+    "torbay palm",
+    "giant dracaena"
+   ],
+   "search": {
+    "names": [
+     "Cordyline australis"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "CabbageTreeKaihoka.jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Cordyline australis in Abel Tasman NP (3).jpg"
+     },
+     {
+      "part": "Flowers",
+      "title": "Cordyline australis kz05.jpg"
+     },
+     {
+      "part": "In flower",
+      "title": "Mature multi-branched cabbage tree in full flower.jpg"
+     },
+     {
+      "part": "Trees",
+      "title": "Cordyline australis Hinewai New Zealand.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bergenia",
+   "list": "List 5",
+   "family": "Saxifragaceae",
+   "botanical": "Bergenia sp.",
+   "common": "bergenia",
+   "botanicalAccept": [
+    "bergenia",
+    "bergenia sp",
+    "bergenia spp",
+    "bergenia species",
+    "bergenia cordifolia",
+    "bergenia crassifolia"
+   ],
+   "commonAccept": [
+    "bergenias",
+    "elephant's ears",
+    "elephants ears",
+    "elephant ears",
+    "pigsqueak",
+    "pig squeak",
+    "heartleaf bergenia"
+   ],
+   "search": {
+    "names": [
+     "Bergenia cordifolia",
+     "Bergenia crassifolia",
+     "Bergenia"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Atlas roslin pl Bergenia grubolistna 5841 6464.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Bergenia cordifolia (Inflorescens).jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Bergenia cordifolia kz01.jpg"
+     },
+     {
+      "part": "Mass planting",
+      "title": "Bergenia crassifolia 2019-04-16 1060.jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "Bergenia crassifolia 2019-04-16 1056.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nandina-domestica",
+   "list": "List 5",
+   "quizzed": "Quiz 5",
+   "family": "Berberidaceae",
+   "botanical": "Nandina domestica",
+   "common": "heavenly bamboo",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "nandina",
+    "sacred bamboo",
+    "heavenly-bamboo"
+   ],
+   "search": {
+    "names": [
+     "Nandina domestica"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Berries",
+      "title": "Nandina domestica, fruits.jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Nandina domestica A.jpg"
+     },
+     {
+      "part": "Flowers",
+      "title": "(MAD) N. domestica - infl. - 02.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "2020-02-01 10 43 38 Heavenly Bamboo in mid-winter along Franklin Farm Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "2021-06-22 17 24 35 Heavenly Bamboo flowers along Franklin Farm Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "liriope",
+   "list": "List 5",
+   "quizzed": "Quiz 5",
+   "family": "Asparagaceae",
+   "botanical": "Liriope sp.",
+   "common": "liriope",
+   "botanicalAccept": [
+    "liriope",
+    "liriope sp",
+    "liriope spp",
+    "liriope species",
+    "liriope muscari",
+    "liriope spicata"
+   ],
+   "commonAccept": [
+    "lilyturf",
+    "lily turf",
+    "big blue lilyturf",
+    "monkey grass",
+    "border grass"
+   ],
+   "search": {
+    "names": [
+     "Liriope muscari",
+     "Liriope spicata"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "In bloom",
+      "title": "2020-09-11 17 35 55 Lilyturf blooming along Centerview Drive in Chantilly, Fairfax County, Virginia.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Liriope muscari - Floraison.jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Liriope muscari 2zz.jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "Liriope spicata kz2 (cropped).jpg"
+     },
+     {
+      "part": "Flowers",
+      "title": "Liriope spicata 5729.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "erigeron-karvinskianus",
+   "list": "List 5",
+   "family": "Asteraceae",
+   "botanical": "Erigeron karvinskianus",
+   "common": "Santa Barbara daisy",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "mexican fleabane",
+    "latin american fleabane",
+    "mexican daisy",
+    "seaside daisy",
+    "fleabane",
+    "bony-tip fleabane",
+    "santa barbara daisies"
+   ],
+   "search": {
+    "names": [
+     "Erigeron karvinskianus"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Starr-090513-7547-Erigeron karvinskianus-flowers-Polipoli-Maui (24587088149).jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "Erigeron karvinskianus5.jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Starr 070621-7437 Erigeron karvinskianus.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Mexican fleabane growing on wall.jpg"
+     },
+     {
+      "part": "White and pink",
+      "title": "Starr-100603-6874-Erigeron karvinskianus-flowers-Polipoli-Maui (24921798562).jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "centranthus-ruber",
+   "list": "List 5",
+   "family": "Caprifoliaceae",
+   "botanical": "Centranthus ruber",
+   "common": "red valerian",
+   "botanicalAccept": [
+    "valeriana rubra",
+    "kentranthus ruber"
+   ],
+   "commonAccept": [
+    "jupiter's beard",
+    "jupiters beard",
+    "red valarian",
+    "spur valerian",
+    "kiss-me-quick",
+    "fox's brush",
+    "devil's beard",
+    "valerian"
+   ],
+   "search": {
+    "names": [
+     "Centranthus ruber",
+     "Valeriana rubra"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Centranthus ruber 01.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Centranthus ruber form.jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Centranthus ruber Ostrogowiec czerwony 2015 06.jpg"
+     },
+     {
+      "part": "On a wall",
+      "title": "7-Centranthe rouge - centrathus ruber.jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "Centranthus ruber in Stari Grad, Hvar, Croatia 20230527 03.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "euphorbia",
+   "list": "List 5",
+   "family": "Euphorbiaceae",
+   "botanical": "Euphorbia sp.",
+   "common": "euphorbia",
+   "botanicalAccept": [
+    "euphorbia",
+    "euphorbia sp",
+    "euphorbia spp",
+    "euphorbia species",
+    "euphorbia characias",
+    "euphorbia characias wulfenii",
+    "euphorbia rigida",
+    "euphorbia myrsinites",
+    "euphorbia x martinii"
+   ],
+   "commonAccept": [
+    "euphorbias",
+    "spurge",
+    "spurges",
+    "mediterranean spurge"
+   ],
+   "search": {
+    "names": [
+     "Euphorbia characias",
+     "Euphorbia characias subsp. wulfenii",
+     "Euphorbia rigida"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Euphorbia characias JdP 2013-04-28.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Euphorbia-characias-total2.JPG"
+     },
+     {
+      "part": "Leaves",
+      "title": "Euphorbia characias 2011.jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "Euphorbia characias (flowers).jpg"
+     },
+     {
+      "part": "In flower",
+      "title": "Euphorbia characias 01.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "id": "muhlenbergia-rigens",
+   "list": "List 5",
+   "family": "Poaceae",
+   "botanical": "Muhlenbergia rigens",
+   "common": "deer grass",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "deergrass",
+    "deer-grass",
+    "deer muhly",
+    "california deergrass"
+   ],
+   "search": {
+    "names": [
+     "Muhlenbergia rigens"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "Muhlenbergia rigens - San Luis Obispo Botanical Garden - DSC06121.JPG"
+     },
+     {
+      "part": "Clump",
+      "title": "Muhlenbergia rigens form.jpg"
+     },
+     {
+      "part": "Inflorescence",
+      "title": "Muhlenbergia rigens stem.jpg"
+     },
+     {
+      "part": "Close-up",
+      "title": "Muhlenbergia rigens flowers with exserted stamens 2002-11-18.jpg"
+     },
+     {
+      "part": "Planting",
+      "title": "Muhlenbergia rigens - deergrass - Flickr - Matt Lavin.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "echinacea",
+   "list": "List 5",
+   "quizzed": "Quiz 5",
+   "family": "Asteraceae",
+   "botanical": "Echinacea sp.",
+   "common": "coneflower",
+   "botanicalAccept": [
+    "echinacea",
+    "echinacea sp",
+    "echinacea spp",
+    "echinacea species",
+    "echinacea purpurea",
+    "echinacea pallida",
+    "echinacea paradoxa"
+   ],
+   "commonAccept": [
+    "coneflowers",
+    "purple coneflower",
+    "cone flower",
+    "echinacea"
+   ],
+   "search": {
+    "names": [
+     "Echinacea purpurea",
+     "Echinacea"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "More Cone Flowers On The Way (113906785).jpeg"
+     },
+     {
+      "part": "Habit",
+      "title": "Gardenology.org-IMG 6852 hunt09jun.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "geranium",
+   "list": "List 5",
+   "family": "Geraniaceae",
+   "botanical": "Geranium sp.",
+   "common": "geranium",
+   "botanicalAccept": [
+    "geranium",
+    "geranium sp",
+    "geranium spp",
+    "geranium species",
+    "geranium sanguineum",
+    "geranium maderense",
+    "geranium x cantabrigiense",
+    "geranium x oxonianum",
+    "geranium macrorrhizum",
+    "geranium incanum"
+   ],
+   "commonAccept": [
+    "geraniums",
+    "cranesbill",
+    "cranesbills",
+    "crane's bill",
+    "hardy geranium",
+    "true geranium"
+   ],
+   "note": "True geraniums (cranesbills), not the Pelargonium from List 3.",
+   "search": {
+    "names": [
+     "Geranium sanguineum",
+     "Geranium × oxonianum",
+     "Geranium"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "2006-06-20 Bloody Crane's-bill, Hauxley, Northumberland 1.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Geranium sanguineum kz21.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "euryops-pectinatus",
+   "list": "List 5",
+   "quizzed": "Quiz 5",
+   "family": "Asteraceae",
+   "botanical": "Euryops pectinatus",
+   "common": "golden euryops",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "euryops",
+    "euryops daisy",
+    "gray-leaved euryops",
+    "grey-leaved euryops",
+    "yellow bush daisy",
+    "golden daisy bush",
+    "golden shrub daisy",
+    "resin bush"
+   ],
+   "search": {
+    "names": [
+     "Euryops pectinatus"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "Euryops pectinatus 2.jpg"
+     },
+     {
+      "part": "Flowers",
+      "title": "Euryops pectinatus 1DS-II 6001-02.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "escallonia",
+   "list": "List 6",
+   "family": "Escalloniaceae",
+   "botanical": "Escallonia sp.",
+   "common": "escallonia",
+   "botanicalAccept": [
+    "escallonia",
+    "escallonia sp",
+    "escallonia spp",
+    "escallonia species",
+    "escallonia rubra",
+    "escallonia x exoniensis",
+    "escallonia exoniensis",
+    "escallonia x langleyensis"
+   ],
+   "commonAccept": [
+    "escallonias"
+   ],
+   "search": {
+    "names": [
+     "Escallonia rubra",
+     "Escallonia",
+     "Escallonia × exoniensis"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Escallonia rubra - San Francisco Botanical Garden.jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "Escallonia rubra var. macrantha - 1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "cuphea-hyssopifolia",
+   "list": "List 6",
+   "family": "Lythraceae",
+   "botanical": "Cuphea hyssopifolia",
+   "common": "false heather",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "mexican heather",
+    "elfin herb",
+    "hawaiian heather"
+   ],
+   "search": {
+    "names": [
+     "Cuphea hyssopifolia"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Small Flower (About 2 cm).JPG"
+     },
+     {
+      "part": "Close-up",
+      "title": "Cuphea hyssopifolia flower in Ishigaki, Okinawa 1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "phormium-tenax",
+   "list": "List 6",
+   "family": "Asphodelaceae",
+   "botanical": "Phormium tenax",
+   "common": "New Zealand flax",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "new zealand flax lily",
+    "nz flax",
+    "harakeke",
+    "flax",
+    "new-zealand flax"
+   ],
+   "search": {
+    "names": [
+     "Phormium tenax"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "Phormium tenax in Paparoa NP 01.jpg"
+     },
+     {
+      "part": "Flowers",
+      "title": "Phormium tenax J.R.Forst. and G.Forst. (AM AK298899-2).jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "elegia-tectorum",
+   "list": "List 6",
+   "family": "Restionaceae",
+   "botanical": "Elegia tectorum",
+   "common": "Cape rush",
+   "botanicalAccept": [
+    "chondropetalum tectorum"
+   ],
+   "commonAccept": [
+    "cape thatching reed",
+    "thatching reed",
+    "cape reed",
+    "dekriet",
+    "small cape rush"
+   ],
+   "note": "Formerly Chondropetalum tectorum; that name is accepted too.",
+   "search": {
+    "names": [
+     "Elegia tectorum",
+     "Chondropetalum tectorum"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "Elegia tectorum KirstenboshBotGard09292010A.JPG"
+     },
+     {
+      "part": "Clump",
+      "title": "Elegia tectorum (Chondropetalum tectorum) - San Francisco Botanical Garden - DSC09904.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "id": "dietes",
+   "list": "List 6",
+   "family": "Iridaceae",
+   "botanical": "Dietes sp.",
+   "common": "fortnight lily",
+   "botanicalAccept": [
+    "dietes",
+    "dietes sp",
+    "dietes spp",
+    "dietes species",
+    "dietes iridioides",
+    "dietes bicolor",
+    "dietes grandiflora",
+    "dietes vegeta"
+   ],
+   "commonAccept": [
+    "fortnight lilies",
+    "african iris",
+    "butterfly iris",
+    "wild iris",
+    "morea iris"
+   ],
+   "search": {
+    "names": [
+     "Dietes iridioides",
+     "Dietes bicolor",
+     "Dietes grandiflora"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Two flowers Sydney.JPG"
+     },
+     {
+      "part": "Habit",
+      "title": "Dietes iridioides kz1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nephrolepis-cordifolia",
+   "list": "List 6",
+   "family": "Polypodiaceae",
+   "botanical": "Nephrolepis cordifolia",
+   "common": "southern sword fern",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "sword fern",
+    "tuberous sword fern",
+    "fishbone fern",
+    "erect sword fern",
+    "narrow sword fern",
+    "ladder fern",
+    "tuber ladder fern",
+    "southern swordfern"
+   ],
+   "note": "Often placed in Nephrolepidaceae or Lomariopsidaceae in other references.",
+   "search": {
+    "names": [
+     "Nephrolepis cordifolia"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Fronds",
+      "title": "Nephrolepis cordifolia fronds.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Starr 070221-4858 Nephrolepis cordifolia.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "antirrhinum-majus",
+   "list": "List 6",
+   "family": "Plantaginaceae",
+   "botanical": "Antirrhinum majus",
+   "common": "snapdragon",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "snapdragons",
+    "common snapdragon",
+    "garden snapdragon",
+    "dragon flower"
+   ],
+   "search": {
+    "names": [
+     "Antirrhinum majus"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Flower (29810629414).jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Antirrhinum majus view.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "lobelia",
+   "list": "List 6",
+   "family": "Campanulaceae",
+   "botanical": "Lobelia sp.",
+   "common": "lobelia",
+   "botanicalAccept": [
+    "lobelia",
+    "lobelia sp",
+    "lobelia spp",
+    "lobelia species",
+    "lobelia erinus",
+    "lobelia cardinalis",
+    "lobelia laxiflora"
+   ],
+   "commonAccept": [
+    "lobelias",
+    "edging lobelia",
+    "trailing lobelia",
+    "garden lobelia"
+   ],
+   "search": {
+    "names": [
+     "Lobelia erinus",
+     "Lobelia"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Lobelia erinus (ptfsk).JPG"
+     },
+     {
+      "part": "Habit",
+      "title": "Dog on the Rails (8878968149).jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "celosia",
+   "list": "List 6",
+   "family": "Amaranthaceae",
+   "botanical": "Celosia sp.",
+   "common": "cockscomb",
+   "botanicalAccept": [
+    "celosia",
+    "celosia sp",
+    "celosia spp",
+    "celosia species",
+    "celosia argentea",
+    "celosia cristata",
+    "celosia argentea var cristata",
+    "celosia plumosa"
+   ],
+   "commonAccept": [
+    "cock's comb",
+    "cocks comb",
+    "cockscombs",
+    "celosia",
+    "plumed cockscomb",
+    "woolflower",
+    "wool flower"
+   ],
+   "search": {
+    "names": [
+     "Celosia argentea var. cristata",
+     "Celosia cristata",
+     "Celosia argentea"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Ground Flower (67401655).jpeg"
+     },
+     {
+      "part": "Habit",
+      "title": "CelosiaCristata2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "petunia",
+   "list": "List 6",
+   "family": "Solanaceae",
+   "botanical": "Petunia sp.",
+   "common": "petunia",
+   "botanicalAccept": [
+    "petunia",
+    "petunia sp",
+    "petunia spp",
+    "petunia species",
+    "petunia x hybrida",
+    "petunia hybrida",
+    "petunia x atkinsiana",
+    "petunia atkinsiana"
+   ],
+   "commonAccept": [
+    "petunias",
+    "garden petunia",
+    "common petunia"
+   ],
+   "search": {
+    "names": [
+     "Petunia × atkinsiana",
+     "Petunia hybrida",
+     "Petunia"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Petunia lilafärg.JPG"
+     },
+     {
+      "part": "Habit",
+      "title": "Petunia from lalbagh 2012.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "id": "cosmos-atrosanguineus",
+   "list": "List 6",
+   "family": "Asteraceae",
+   "botanical": "Cosmos atrosanguineus",
+   "common": "chocolate cosmos",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "chocolate cosmo",
+    "black cosmos"
+   ],
+   "search": {
+    "names": [
+     "Cosmos atrosanguineus"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "October 20th. Chocolate Cosmos (8105379543).jpg"
+     },
+     {
+      "part": "Leaves",
+      "title": "20210731 Hortus botanicus Leiden - 05 - Cosmos atrosanguineus.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "westringia-morning-light",
+   "list": "List 6",
+   "family": "Lamiaceae",
+   "botanical": "Westringia fruticosa 'Morning Light'",
+   "common": "morning light Australian rosemary",
+   "botanicalAccept": [
+    "westringia fruticosa morning light",
+    "westringia fruticosa cv morning light",
+    "westringia morning light"
+   ],
+   "commonAccept": [
+    "morning light coast rosemary",
+    "morning light coastal rosemary",
+    "australian rosemary morning light",
+    "coast rosemary morning light",
+    "variegated australian rosemary",
+    "morning light westringia",
+    "morning light"
+   ],
+   "botanicalPartial": [
+    "westringia fruticosa",
+    "westringia"
+   ],
+   "note": "Photos may show the plain species; 'Morning Light' has cream-edged leaves.",
+   "search": {
+    "names": [
+     "Westringia fruticosa"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "Westringia fruticosa 01.jpg"
+     },
+     {
+      "part": "Flowers",
+      "title": "Coastal Rosemary flowers (6017541343).jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "clivia-miniata",
+   "list": "List 6",
+   "family": "Amaryllidaceae",
+   "botanical": "Clivia miniata",
+   "common": "Natal lily",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "natal lilies",
+    "bush lily",
+    "kaffir lily",
+    "fire lily",
+    "clivia",
+    "orange clivia"
+   ],
+   "search": {
+    "names": [
+     "Clivia miniata"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Clivia miniata Kliwia cynobrowa 2024-01-20 Malaga 07.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Clivia miniata kz05.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "encelia-californica",
+   "list": "List 6",
+   "family": "Asteraceae",
+   "botanical": "Encelia californica",
+   "common": "California brittlebush",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "california brittle bush",
+    "california encelia",
+    "coast sunflower",
+    "bush sunflower",
+    "california bush sunflower",
+    "brittlebush"
+   ],
+   "search": {
+    "names": [
+     "Encelia californica"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Encelia californica (27535217585).jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Encelia californica - Manhattan Beach Botanical Garden - Manhattan Beach, CA - DSC01304.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "carex-divulsa",
+   "list": "List 7",
+   "family": "Cyperaceae",
+   "botanical": "Carex divulsa",
+   "common": "Berkeley sedge",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "berkeley sedges",
+    "grassland sedge",
+    "grey sedge",
+    "gray sedge"
+   ],
+   "search": {
+    "names": [
+     "Carex divulsa"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "Carex divulsa - Leaning Pine Arboretum - DSC05830.JPG"
+     },
+     {
+      "part": "Inflorescence",
+      "title": "Carex divulsa 2 (G. Nitter).jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "agapanthus",
+   "list": "List 7",
+   "family": "Amaryllidaceae",
+   "botanical": "Agapanthus sp.",
+   "common": "lily of the Nile",
+   "botanicalAccept": [
+    "agapanthus",
+    "agapanthus sp",
+    "agapanthus spp",
+    "agapanthus species",
+    "agapanthus africanus",
+    "agapanthus praecox",
+    "agapanthus orientalis"
+   ],
+   "commonAccept": [
+    "lily-of-the-nile",
+    "lilies of the nile",
+    "african lily",
+    "agapanthus"
+   ],
+   "search": {
+    "names": [
+     "Agapanthus praecox",
+     "Agapanthus africanus",
+     "Agapanthus"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Agapanthus praecox-IMG 9358.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Agapanthus praecox-IMG 8736.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hemerocallis",
+   "list": "List 7",
+   "family": "Asphodelaceae",
+   "botanical": "Hemerocallis sp.",
+   "common": "daylily",
+   "botanicalAccept": [
+    "hemerocallis",
+    "hemerocallis sp",
+    "hemerocallis spp",
+    "hemerocallis species",
+    "hemerocallis fulva",
+    "hemerocallis hybrids"
+   ],
+   "commonAccept": [
+    "day lily",
+    "daylilies",
+    "day lilies"
+   ],
+   "search": {
+    "names": [
+     "Hemerocallis",
+     "Hemerocallis fulva"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "DayLily.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "2023-06-16 15 45 29 Day lily blooming along Barbara Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "zinnia-elegans",
+   "list": "List 7",
+   "family": "Asteraceae",
+   "botanical": "Zinnia elegans",
+   "common": "zinnia",
+   "botanicalAccept": [
+    "zinnia violacea"
+   ],
+   "commonAccept": [
+    "zinnias",
+    "common zinnia",
+    "garden zinnia",
+    "youth and age",
+    "youth-and-age"
+   ],
+   "search": {
+    "names": [
+     "Zinnia elegans"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Zinnia elegans, Festival Theatre garden, Stratford, Ontario, 2025-08-04 02.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Blumenbeet bunt Heidelberg.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "id": "santolina-chamaecyparissus",
+   "list": "List 7",
+   "family": "Asteraceae",
+   "botanical": "Santolina chamaecyparissus",
+   "common": "lavender cotton",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "cotton lavender",
+    "lavender-cotton",
+    "santolina",
+    "gray santolina",
+    "grey santolina"
+   ],
+   "search": {
+    "names": [
+     "Santolina chamaecyparissus"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Santolina chamaecyparissus, macro.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Gardenology.org-IMG 2696 rbgs11jan.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "phlomis-purpurea",
+   "list": "List 7",
+   "family": "Lamiaceae",
+   "botanical": "Phlomis purpurea",
+   "common": "purple Jerusalem sage",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "purple jerusalem-sage",
+    "jerusalem sage",
+    "purple phlomis"
+   ],
+   "search": {
+    "names": [
+     "Phlomis purpurea"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Phlomis purpurea purpurea - Flickr - gailhampshire.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Phlomis purpurea kz18.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "agastache-rupestris",
+   "list": "List 7",
+   "family": "Lamiaceae",
+   "botanical": "Agastache rupestris",
+   "common": "sunset hyssop",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "threadleaf giant hyssop",
+    "rock anise hyssop",
+    "licorice mint",
+    "sunset hyssops"
+   ],
+   "search": {
+    "names": [
+     "Agastache rupestris"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Habit",
+      "title": "Agastache rupestre.jpg"
+     },
+     {
+      "part": "Flowers",
+      "title": "Agastache rupestris1 lg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "eryngium-amethystinum",
+   "list": "List 7",
+   "family": "Apiaceae",
+   "botanical": "Eryngium amethystinum",
+   "common": "amethyst sea holly",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "amethyst sea-holly",
+    "sea holly",
+    "amethyst eryngo",
+    "italian eryngo"
+   ],
+   "search": {
+    "names": [
+     "Eryngium amethystinum"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Eryngium amethystinum Mikołajek ametystowy 2020-07-28 02.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Eryngium July 2011-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "dahlia",
+   "list": "List 7",
+   "family": "Asteraceae",
+   "botanical": "Dahlia cvs.",
+   "common": "garden dahlia",
+   "botanicalAccept": [
+    "dahlia",
+    "dahlia sp",
+    "dahlia spp",
+    "dahlia species",
+    "dahlia cvs",
+    "dahlia cv",
+    "dahlia cultivars",
+    "dahlia hybrids",
+    "dahlia x hybrida",
+    "dahlia hybrida",
+    "dahlia pinnata",
+    "dahlia variabilis"
+   ],
+   "commonAccept": [
+    "dahlia",
+    "dahlias",
+    "garden dahlias"
+   ],
+   "search": {
+    "names": [
+     "Dahlia pinnata",
+     "Dahlia"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "20261024.Dahliengarten (Großer Garten).-019.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "20261014.Dahliengarten (Großer Garten).-024.1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "limonium-perezii",
+   "list": "List 7",
+   "family": "Plumbaginaceae",
+   "botanical": "Limonium perezii",
+   "common": "sea lavender / statice",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "sea lavender",
+    "statice",
+    "sea lavender statice",
+    "statice sea lavender",
+    "sea-lavender",
+    "perez's sea lavender",
+    "perezs sea lavender",
+    "perez sea lavender",
+    "perez's statice",
+    "perezs statice"
+   ],
+   "search": {
+    "names": [
+     "Limonium perezii"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Limonium perezii 7zz.jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Giant Statice (Limonium perezii) (32376587148).jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tulbaghia-violacea",
+   "list": "List 7",
+   "family": "Amaryllidaceae",
+   "botanical": "Tulbaghia violacea",
+   "common": "society garlic",
+   "botanicalAccept": [],
+   "commonAccept": [
+    "wild garlic",
+    "pink agapanthus",
+    "sweet garlic"
+   ],
+   "search": {
+    "names": [
+     "Tulbaghia violacea"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Tulbaghia violacea in Botanischer Garten Muenster (2).jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Tulbaghia violacea-Ail d'Afrique-20210705.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "lobularia-maritima",
+   "list": "List 7",
+   "family": "Brassicaceae",
+   "botanical": "Lobularia maritima",
+   "common": "sweet alyssum",
+   "botanicalAccept": [
+    "alyssum maritimum"
+   ],
+   "commonAccept": [
+    "alyssum",
+    "sweet alison",
+    "sweet alyssums"
+   ],
+   "search": {
+    "names": [
+     "Lobularia maritima"
+    ],
+    "parts": {},
+    "files": [
+     {
+      "part": "Flowers",
+      "title": "Alyssum maritimum (Lobularia maritima).jpg"
+     },
+     {
+      "part": "Habit",
+      "title": "Caps blancs pel Bellveret, Xàtiva.jpg"
      }
     ]
    }
@@ -4809,6 +6456,1672 @@ window.PLANT_DATA = {
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "file": "tagetes-lemmonii/05-foliage.jpg"
+   }
+  ],
+  "asparagus-densiflorus": [
+   {
+    "part": "Habit",
+    "title": "Ekor Tupai.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ekor_Tupai.jpg",
+    "author": "Bramanditya Tiar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "asparagus-densiflorus/01-habit.jpg"
+   },
+   {
+    "part": "Foliage",
+    "title": "Asparagus sprengeri.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Asparagus_sprengeri.jpg",
+    "author": "Dinkum",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "asparagus-densiflorus/02-foliage.jpg"
+   },
+   {
+    "part": "Berries",
+    "title": "Starr 071024-9920 Asparagus densiflorus.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr_071024-9920_Asparagus_densiflorus.jpg",
+    "author": "Forest &amp; Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "asparagus-densiflorus/03-berries.jpg"
+   },
+   {
+    "part": "Flowers",
+    "title": "Asparagus aethiopicus aka Sprenger's Asparagus.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Asparagus_aethiopicus_aka_Sprenger%27s_Asparagus.jpg",
+    "author": "Aur-Aelion Israel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "asparagus-densiflorus/04-flowers.jpg"
+   },
+   {
+    "part": "Foxtail fronds",
+    "title": "Ramat aNadiv park, Israel (12742558783).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ramat_aNadiv_park,_Israel_(12742558783).jpg",
+    "author": "Yair Aronshtam from Israel",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "asparagus-densiflorus/05-foxtail-fronds.jpg"
+   }
+  ],
+  "lantana-camara": [
+   {
+    "part": "Flowers",
+    "title": "Common Lantana (Lantana camara) growing in Ponnani, Kerala 20.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Common_Lantana_(Lantana_camara)_growing_in_Ponnani,_Kerala_20.jpg",
+    "author": "Anish nellickal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "lantana-camara/01-flowers.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Common Lantana (Lantana camara) growing in Ponnani, Kerala 06.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Common_Lantana_(Lantana_camara)_growing_in_Ponnani,_Kerala_06.jpg",
+    "author": "Anish nellickal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "lantana-camara/02-close-up.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Lantana camara (do tupi kamará) de flores amarelas 02.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lantana_camara_(do_tupi_kamar%C3%A1)_de_flores_amarelas_02.jpg",
+    "author": "Bageense",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "lantana-camara/03-habit.jpg"
+   },
+   {
+    "part": "Fruit",
+    "title": "לנטנה ססגונית – פירות ירוקים ובשלים באותה תפרחת 1577.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:%D7%9C%D7%A0%D7%98%D7%A0%D7%94_%D7%A1%D7%A1%D7%92%D7%95%D7%A0%D7%99%D7%AA_%E2%80%93_%D7%A4%D7%99%D7%A8%D7%95%D7%AA_%D7%99%D7%A8%D7%95%D7%A7%D7%99%D7%9D_%D7%95%D7%91%D7%A9%D7%9C%D7%99%D7%9D_%D7%91%D7%90%D7%95%D7%AA%D7%94_%D7%AA%D7%A4%D7%A8%D7%97%D7%AA_1577.jpg",
+    "author": "Ariesaada",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "lantana-camara/04-fruit.jpg"
+   },
+   {
+    "part": "Other colors",
+    "title": "Multicoloured Common Lantana (Lantana camara) Growing in Ponnani, Kerala 05.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Multicoloured_Common_Lantana_(Lantana_camara)_Growing_in_Ponnani,_Kerala_05.jpg",
+    "author": "Anish nellickal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "lantana-camara/05-other-colors.jpg"
+   }
+  ],
+  "polygala": [
+   {
+    "part": "Flowers",
+    "title": "Polygala myrtifolia (var. grandiflora)-1.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Polygala_myrtifolia_(var._grandiflora)-1.JPG",
+    "author": "Tubifex",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "polygala/01-flowers.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "POLYGALA myrtifolia. jpg.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:POLYGALA_myrtifolia._jpg.jpg",
+    "author": "Marktee1",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "file": "polygala/02-close-up.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Polygala myrtifolia 1.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Polygala_myrtifolia_1.jpg",
+    "author": "Kousvet",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "polygala/03-habit.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Polygala myrtifolia Krzyżownica 2024-01-20 Malaga 02.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Polygala_myrtifolia_Krzy%C5%BCownica_2024-01-20_Malaga_02.jpg",
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "polygala/04-leaves.jpg"
+   },
+   {
+    "part": "Shrub",
+    "title": "Polygala myrtifolia kz4.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Polygala_myrtifolia_kz4.JPG",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "polygala/05-shrub.jpg"
+   }
+  ],
+  "coleonema-pulchellum": [
+   {
+    "part": "Flowers",
+    "title": "Coleonema pulchellum 1DS-II 2-1060.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Coleonema_pulchellum_1DS-II_2-1060.jpg",
+    "author": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "coleonema-pulchellum/01-flowers.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Coleonema pulchellum 1DS-II 3-5358.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Coleonema_pulchellum_1DS-II_3-5358.jpg",
+    "author": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "coleonema-pulchellum/02-close-up.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Coleonema pulchellum 'Compact Form' kz01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Coleonema_pulchellum_%27Compact_Form%27_kz01.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "coleonema-pulchellum/03-habit.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Coleonema pulchellum kz2.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Coleonema_pulchellum_kz2.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "coleonema-pulchellum/04-leaves.jpg"
+   },
+   {
+    "part": "Branches",
+    "title": "Coleonema pulchellum 0194.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Coleonema_pulchellum_0194.jpg",
+    "author": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "coleonema-pulchellum/05-branches.jpg"
+   }
+  ],
+  "cordyline-australis": [
+   {
+    "part": "Habit",
+    "title": "CabbageTreeKaihoka.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:CabbageTreeKaihoka.jpg",
+    "author": "Jade",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "cordyline-australis/01-habit.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Cordyline australis in Abel Tasman NP (3).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cordyline_australis_in_Abel_Tasman_NP_(3).jpg",
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "cordyline-australis/02-leaves.jpg"
+   },
+   {
+    "part": "Flowers",
+    "title": "Cordyline australis kz05.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cordyline_australis_kz05.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "cordyline-australis/03-flowers.jpg"
+   },
+   {
+    "part": "In flower",
+    "title": "Mature multi-branched cabbage tree in full flower.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mature_multi-branched_cabbage_tree_in_full_flower.jpg",
+    "author": "Pseudopanax at English Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "cordyline-australis/04-in-flower.jpg"
+   },
+   {
+    "part": "Trees",
+    "title": "Cordyline australis Hinewai New Zealand.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cordyline_australis_Hinewai_New_Zealand.JPG",
+    "author": "MurielBendel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "cordyline-australis/05-trees.jpg"
+   }
+  ],
+  "bergenia": [
+   {
+    "part": "Flowers",
+    "title": "Atlas roslin pl Bergenia grubolistna 5841 6464.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Bergenia_grubolistna_5841_6464.jpg",
+    "author": "Joanna Boisse",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "bergenia/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Bergenia cordifolia (Inflorescens).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Bergenia_cordifolia_(Inflorescens).jpg",
+    "author": "Christian Hummert (Ixitixel)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "bergenia/02-habit.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Bergenia cordifolia kz01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Bergenia_cordifolia_kz01.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "bergenia/03-leaves.jpg"
+   },
+   {
+    "part": "Mass planting",
+    "title": "Bergenia crassifolia 2019-04-16 1060.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Bergenia_crassifolia_2019-04-16_1060.jpg",
+    "author": "Salicyna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "bergenia/04-mass-planting.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Bergenia crassifolia 2019-04-16 1056.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Bergenia_crassifolia_2019-04-16_1056.jpg",
+    "author": "Salicyna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "bergenia/05-close-up.jpg"
+   }
+  ],
+  "nandina-domestica": [
+   {
+    "part": "Berries",
+    "title": "Nandina domestica, fruits.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Nandina_domestica,_fruits.jpg",
+    "author": "Gmihail at Serbian Wikipedia",
+    "license": "CC BY-SA 3.0 rs",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en",
+    "file": "nandina-domestica/01-berries.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Nandina domestica A.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Nandina_domestica_A.jpg",
+    "author": "Wouter Hagens",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "nandina-domestica/02-leaves.jpg"
+   },
+   {
+    "part": "Flowers",
+    "title": "(MAD) N. domestica - infl. - 02.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:(MAD)_N._domestica_-_infl._-_02.jpg",
+    "author": "Philmarin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "nandina-domestica/03-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "2020-02-01 10 43 38 Heavenly Bamboo in mid-winter along Franklin Farm Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2020-02-01_10_43_38_Heavenly_Bamboo_in_mid-winter_along_Franklin_Farm_Road_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+    "author": "Famartin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "nandina-domestica/04-habit.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "2021-06-22 17 24 35 Heavenly Bamboo flowers along Franklin Farm Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2021-06-22_17_24_35_Heavenly_Bamboo_flowers_along_Franklin_Farm_Road_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+    "author": "Famartin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "nandina-domestica/05-close-up.jpg"
+   }
+  ],
+  "liriope": [
+   {
+    "part": "In bloom",
+    "title": "2020-09-11 17 35 55 Lilyturf blooming along Centerview Drive in Chantilly, Fairfax County, Virginia.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2020-09-11_17_35_55_Lilyturf_blooming_along_Centerview_Drive_in_Chantilly,_Fairfax_County,_Virginia.jpg",
+    "author": "Famartin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "liriope/01-in-bloom.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Liriope muscari - Floraison.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Liriope_muscari_-_Floraison.jpg",
+    "author": "Denis.prévôt",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "liriope/02-habit.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Liriope muscari 2zz.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Liriope_muscari_2zz.jpg",
+    "author": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "liriope/03-leaves.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Liriope spicata kz2 (cropped).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Liriope_spicata_kz2_(cropped).jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "liriope/04-close-up.jpg"
+   },
+   {
+    "part": "Flowers",
+    "title": "Liriope spicata 5729.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Liriope_spicata_5729.jpg",
+    "author": "Amada44",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "liriope/05-flowers.jpg"
+   }
+  ],
+  "erigeron-karvinskianus": [
+   {
+    "part": "Flowers",
+    "title": "Starr-090513-7547-Erigeron karvinskianus-flowers-Polipoli-Maui (24587088149).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-090513-7547-Erigeron_karvinskianus-flowers-Polipoli-Maui_(24587088149).jpg",
+    "author": "Forest and Kim Starr",
+    "license": "CC BY 3.0 us",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+    "file": "erigeron-karvinskianus/01-flowers.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Erigeron karvinskianus5.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Erigeron_karvinskianus5.jpg",
+    "author": "KENPEI",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "erigeron-karvinskianus/02-close-up.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Starr 070621-7437 Erigeron karvinskianus.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr_070621-7437_Erigeron_karvinskianus.jpg",
+    "author": "Forest &amp; Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "erigeron-karvinskianus/03-leaves.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Mexican fleabane growing on wall.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Mexican_fleabane_growing_on_wall.jpg",
+    "author": "Lee Raye",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "erigeron-karvinskianus/04-habit.jpg"
+   },
+   {
+    "part": "White and pink",
+    "title": "Starr-100603-6874-Erigeron karvinskianus-flowers-Polipoli-Maui (24921798562).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-100603-6874-Erigeron_karvinskianus-flowers-Polipoli-Maui_(24921798562).jpg",
+    "author": "Forest and Kim Starr",
+    "license": "CC BY 3.0 us",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+    "file": "erigeron-karvinskianus/05-white-and-pink.jpg"
+   }
+  ],
+  "centranthus-ruber": [
+   {
+    "part": "Flowers",
+    "title": "Centranthus ruber 01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Centranthus_ruber_01.jpg",
+    "author": "\"pastilletes\"/Joan Simon, Barcelona, España",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "centranthus-ruber/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Centranthus ruber form.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Centranthus_ruber_form.jpg",
+    "author": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "centranthus-ruber/02-habit.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Centranthus ruber Ostrogowiec czerwony 2015 06.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Centranthus_ruber_Ostrogowiec_czerwony_2015_06.jpg",
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "centranthus-ruber/03-leaves.jpg"
+   },
+   {
+    "part": "On a wall",
+    "title": "7-Centranthe rouge - centrathus ruber.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:7-Centranthe_rouge_-_centrathus_ruber.jpg",
+    "author": "AnimaTer34120",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "centranthus-ruber/04-on-a-wall.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Centranthus ruber in Stari Grad, Hvar, Croatia 20230527 03.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Centranthus_ruber_in_Stari_Grad,_Hvar,_Croatia_20230527_03.jpg",
+    "author": "Argo Navis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "centranthus-ruber/05-close-up.jpg"
+   }
+  ],
+  "euphorbia": [
+   {
+    "part": "Flowers",
+    "title": "Euphorbia characias JdP 2013-04-28.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euphorbia_characias_JdP_2013-04-28.jpg",
+    "author": "Gil-Estel",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "euphorbia/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Euphorbia-characias-total2.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euphorbia-characias-total2.JPG",
+    "author": "Sten Porse",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "euphorbia/02-habit.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Euphorbia characias 2011.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euphorbia_characias_2011.jpg",
+    "author": "James Steakley",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "euphorbia/03-leaves.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Euphorbia characias (flowers).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euphorbia_characias_(flowers).jpg",
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "euphorbia/04-close-up.jpg"
+   },
+   {
+    "part": "In flower",
+    "title": "Euphorbia characias 01.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euphorbia_characias_01.JPG",
+    "author": "Salix",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "euphorbia/05-in-flower.jpg"
+   }
+  ],
+  "muhlenbergia-rigens": [
+   {
+    "part": "Habit",
+    "title": "Muhlenbergia rigens - San Luis Obispo Botanical Garden - DSC06121.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Muhlenbergia_rigens_-_San_Luis_Obispo_Botanical_Garden_-_DSC06121.JPG",
+    "author": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "muhlenbergia-rigens/01-habit.jpg"
+   },
+   {
+    "part": "Clump",
+    "title": "Muhlenbergia rigens form.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Muhlenbergia_rigens_form.jpg",
+    "author": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "muhlenbergia-rigens/02-clump.jpg"
+   },
+   {
+    "part": "Inflorescence",
+    "title": "Muhlenbergia rigens stem.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Muhlenbergia_rigens_stem.jpg",
+    "author": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "muhlenbergia-rigens/03-inflorescence.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Muhlenbergia rigens flowers with exserted stamens 2002-11-18.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Muhlenbergia_rigens_flowers_with_exserted_stamens_2002-11-18.jpg",
+    "author": "No machine-readable author provided. Curtis Clark assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "file": "muhlenbergia-rigens/04-close-up.jpg"
+   },
+   {
+    "part": "Planting",
+    "title": "Muhlenbergia rigens - deergrass - Flickr - Matt Lavin.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Muhlenbergia_rigens_-_deergrass_-_Flickr_-_Matt_Lavin.jpg",
+    "author": "Matt Lavin from Bozeman, Montana, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "muhlenbergia-rigens/05-planting.jpg"
+   }
+  ],
+  "echinacea": [
+   {
+    "part": "Flowers",
+    "title": "More Cone Flowers On The Way (113906785).jpeg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:More_Cone_Flowers_On_The_Way_(113906785).jpeg",
+    "author": "Brian Kay",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "echinacea/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Gardenology.org-IMG 6852 hunt09jun.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_6852_hunt09jun.jpg",
+    "author": "Raffi Kojian",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "echinacea/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": ".00 1682 Purpur-Sonnenhut (Echinacea purpurea).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:.00_1682_Purpur-Sonnenhut_(Echinacea_purpurea).jpg",
+    "author": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "echinacea/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Echinacea purpurea Feldanbau.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Echinacea_purpurea_Feldanbau.jpg",
+    "author": "Burkhard Mücke",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "echinacea/04-plant.jpg"
+   }
+  ],
+  "geranium": [
+   {
+    "part": "Flowers",
+    "title": "2006-06-20 Bloody Crane's-bill, Hauxley, Northumberland 1.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2006-06-20_Bloody_Crane%27s-bill,_Hauxley,_Northumberland_1.jpg",
+    "author": "MPF",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "geranium/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Geranium sanguineum kz21.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Geranium_sanguineum_kz21.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "geranium/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "(MHNT) Geranium sanguineum - Flower and leaf - Les Martels, Giroussens Tarn.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:(MHNT)_Geranium_sanguineum_-_Flower_and_leaf_-_Les_Martels,_Giroussens_Tarn.jpg",
+    "author": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "geranium/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Geranium sanguineum, 27-06-2024. (actm.).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Geranium_sanguineum,_27-06-2024._(actm.).jpg",
+    "author": "Agnes Monkelbaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "geranium/04-plant.jpg"
+   }
+  ],
+  "euryops-pectinatus": [
+   {
+    "part": "Habit",
+    "title": "Euryops pectinatus 2.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euryops_pectinatus_2.jpg",
+    "author": "Stickpen",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "euryops-pectinatus/01-habit.jpg"
+   },
+   {
+    "part": "Flowers",
+    "title": "Euryops pectinatus 1DS-II 6001-02.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euryops_pectinatus_1DS-II_6001-02.jpg",
+    "author": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "euryops-pectinatus/02-flowers.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Euryops pectinatus Cass..JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euryops_pectinatus_Cass..JPG",
+    "author": "Bachelot Pierre J-P",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "euryops-pectinatus/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Euryops pectinatus 1DS-II 6001-01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Euryops_pectinatus_1DS-II_6001-01.jpg",
+    "author": "SAplants",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "euryops-pectinatus/04-plant.jpg"
+   }
+  ],
+  "escallonia": [
+   {
+    "part": "Flowers",
+    "title": "Escallonia rubra - San Francisco Botanical Garden.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Escallonia_rubra_-_San_Francisco_Botanical_Garden.jpg",
+    "author": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "escallonia/01-flowers.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "Escallonia rubra var. macrantha - 1.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Escallonia_rubra_var._macrantha_-_1.jpg",
+    "author": "Emőke Dénes",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "escallonia/02-leaves.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Starr 080716-9454 Escallonia rubra var. macrantha.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr_080716-9454_Escallonia_rubra_var._macrantha.jpg",
+    "author": "Forest &amp; Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "escallonia/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Escallonia rubra kz03.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Escallonia_rubra_kz03.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "escallonia/04-plant.jpg"
+   }
+  ],
+  "cuphea-hyssopifolia": [
+   {
+    "part": "Flowers",
+    "title": "Small Flower (About 2 cm).JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Small_Flower_(About_2_cm).JPG",
+    "author": "Kd999kd",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "cuphea-hyssopifolia/01-flowers.jpg"
+   },
+   {
+    "part": "Close-up",
+    "title": "Cuphea hyssopifolia flower in Ishigaki, Okinawa 1.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cuphea_hyssopifolia_flower_in_Ishigaki,_Okinawa_1.jpg",
+    "author": "M108t",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "file": "cuphea-hyssopifolia/02-close-up.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Cuphea hyssopifolia 2009-07-20 02.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cuphea_hyssopifolia_2009-07-20_02.jpg",
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "cuphea-hyssopifolia/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Cuphea hyssopifolia kz04.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cuphea_hyssopifolia_kz04.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "cuphea-hyssopifolia/04-plant.jpg"
+   }
+  ],
+  "phormium-tenax": [
+   {
+    "part": "Habit",
+    "title": "Phormium tenax in Paparoa NP 01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Phormium_tenax_in_Paparoa_NP_01.jpg",
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "phormium-tenax/01-habit.jpg"
+   },
+   {
+    "part": "Flowers",
+    "title": "Phormium tenax J.R.Forst. and G.Forst. (AM AK298899-2).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Phormium_tenax_J.R.Forst._and_G.Forst._(AM_AK298899-2).jpg",
+    "author": "Ewen Cameron",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "file": "phormium-tenax/02-flowers.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Phormium tenax Piha02.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Phormium_tenax_Piha02.jpg",
+    "author": "Kahuroa",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "phormium-tenax/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Phormium tenax in Paparoa NP 03.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Phormium_tenax_in_Paparoa_NP_03.jpg",
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "phormium-tenax/04-plant.jpg"
+   }
+  ],
+  "elegia-tectorum": [
+   {
+    "part": "Habit",
+    "title": "Elegia tectorum KirstenboshBotGard09292010A.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Elegia_tectorum_KirstenboshBotGard09292010A.JPG",
+    "author": "User:BotBln",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "elegia-tectorum/01-habit.jpg"
+   },
+   {
+    "part": "Clump",
+    "title": "Elegia tectorum (Chondropetalum tectorum) - San Francisco Botanical Garden - DSC09904.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Elegia_tectorum_(Chondropetalum_tectorum)_-_San_Francisco_Botanical_Garden_-_DSC09904.JPG",
+    "author": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "elegia-tectorum/02-clump.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Elegia tectorum KirstenboshBotGard09292010C.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Elegia_tectorum_KirstenboshBotGard09292010C.JPG",
+    "author": "User:BotBln",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "elegia-tectorum/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Elegia tectorum kz11.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Elegia_tectorum_kz11.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "elegia-tectorum/04-plant.jpg"
+   }
+  ],
+  "dietes": [
+   {
+    "part": "Flowers",
+    "title": "Two flowers Sydney.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Two_flowers_Sydney.JPG",
+    "author": "Dinkum",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "dietes/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Dietes iridioides kz1.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dietes_iridioides_kz1.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "dietes/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Dietes iridioides 001.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dietes_iridioides_001.jpg",
+    "author": "Amada44",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "dietes/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Starr-110307-2917-Dietes iridioides-seed capsule-Kula Botanical Garden-Maui (24711348249).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr-110307-2917-Dietes_iridioides-seed_capsule-Kula_Botanical_Garden-Maui_(24711348249).jpg",
+    "author": "Forest and Kim Starr",
+    "license": "CC BY 3.0 us",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+    "file": "dietes/04-plant.jpg"
+   }
+  ],
+  "nephrolepis-cordifolia": [
+   {
+    "part": "Fronds",
+    "title": "Nephrolepis cordifolia fronds.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Nephrolepis_cordifolia_fronds.jpg",
+    "author": "Willow Coville",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "nephrolepis-cordifolia/01-fronds.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Starr 070221-4858 Nephrolepis cordifolia.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr_070221-4858_Nephrolepis_cordifolia.jpg",
+    "author": "Forest &amp; Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "nephrolepis-cordifolia/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Starr 070221-4863 Nephrolepis cordifolia.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr_070221-4863_Nephrolepis_cordifolia.jpg",
+    "author": "Forest &amp; Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "nephrolepis-cordifolia/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Starr 040318-0078 Nephrolepis cordifolia.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr_040318-0078_Nephrolepis_cordifolia.jpg",
+    "author": "Forest &amp; Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "nephrolepis-cordifolia/04-plant.jpg"
+   }
+  ],
+  "antirrhinum-majus": [
+   {
+    "part": "Flowers",
+    "title": "Flower (29810629414).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Flower_(29810629414).jpg",
+    "author": "Susanne Nilsson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "antirrhinum-majus/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Antirrhinum majus view.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Antirrhinum_majus_view.jpg",
+    "author": "The original uploader was Gmihail at Serbian Wikipedia.",
+    "license": "CC BY-SA 3.0 rs",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en",
+    "file": "antirrhinum-majus/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Antirrhinum majusMaig i juny 2007 017.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Antirrhinum_majusMaig_i_juny_2007_017.JPG",
+    "author": "Victor M. Vicente Selvas",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "antirrhinum-majus/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Antirrhinum majus, Sète 03.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Antirrhinum_majus,_S%C3%A8te_03.jpg",
+    "author": "Christian Ferrer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "antirrhinum-majus/04-plant.jpg"
+   }
+  ],
+  "lobelia": [
+   {
+    "part": "Flowers",
+    "title": "Lobelia erinus (ptfsk).JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lobelia_erinus_(ptfsk).JPG",
+    "author": "Patafisik",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "lobelia/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Dog on the Rails (8878968149).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Dog_on_the_Rails_(8878968149).jpg",
+    "author": "cogdogblog",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "file": "lobelia/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Lobelia erinus flower (18).jpeg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lobelia_erinus_flower_(18).jpeg",
+    "author": "Tim McNamara",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "file": "lobelia/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Lobelia erinus flower (17).jpeg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lobelia_erinus_flower_(17).jpeg",
+    "author": "Alexis",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "file": "lobelia/04-plant.jpg"
+   }
+  ],
+  "celosia": [
+   {
+    "part": "Flowers",
+    "title": "Ground Flower (67401655).jpeg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Ground_Flower_(67401655).jpeg",
+    "author": "Henry K Ngema",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "celosia/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "CelosiaCristata2.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:CelosiaCristata2.jpg",
+    "author": "Taken by Fanghong",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "celosia/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Celosia Cristata Pink flower.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Celosia_Cristata_Pink_flower.jpg",
+    "author": "Kradolferp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "celosia/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Celosia corolla.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Celosia_corolla.jpg",
+    "author": "Fumikas Sagisavas",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "celosia/04-plant.jpg"
+   }
+  ],
+  "petunia": [
+   {
+    "part": "Flowers",
+    "title": "Petunia lilafärg.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Petunia_lilaf%C3%A4rg.JPG",
+    "author": "PhuongLy",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "petunia/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Petunia from lalbagh 2012.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Petunia_from_lalbagh_2012.JPG",
+    "author": "Rameshng",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "petunia/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "00 1737 Petunia × atkinsiana.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:00_1737_Petunia_%C3%97_atkinsiana.jpg",
+    "author": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "petunia/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Petunia x atkinsiana.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Petunia_x_atkinsiana.jpg",
+    "author": "İmmortalance",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "petunia/04-plant.jpg"
+   }
+  ],
+  "cosmos-atrosanguineus": [
+   {
+    "part": "Flowers",
+    "title": "October 20th. Chocolate Cosmos (8105379543).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:October_20th._Chocolate_Cosmos_(8105379543).jpg",
+    "author": "Amanda Slater from Coventry, West Midlands, UK",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "cosmos-atrosanguineus/01-flowers.jpg"
+   },
+   {
+    "part": "Leaves",
+    "title": "20210731 Hortus botanicus Leiden - 05 - Cosmos atrosanguineus.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:20210731_Hortus_botanicus_Leiden_-_05_-_Cosmos_atrosanguineus.jpg",
+    "author": "Rudolphous",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "cosmos-atrosanguineus/02-leaves.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Cosmos-atrosanguineus.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cosmos-atrosanguineus.jpg",
+    "author": "Björn Appel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "cosmos-atrosanguineus/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Cosmos atrosanguineus 01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Cosmos_atrosanguineus_01.jpg",
+    "author": "\"pikerslanefarm\"/Amanda Slater, Coventry, England",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "cosmos-atrosanguineus/04-plant.jpg"
+   }
+  ],
+  "westringia-morning-light": [
+   {
+    "part": "Habit",
+    "title": "Westringia fruticosa 01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Westringia_fruticosa_01.jpg",
+    "author": "No machine-readable author provided. Dlanglois assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "westringia-morning-light/01-habit.jpg"
+   },
+   {
+    "part": "Flowers",
+    "title": "Coastal Rosemary flowers (6017541343).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Coastal_Rosemary_flowers_(6017541343).jpg",
+    "author": "John Tann from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "file": "westringia-morning-light/02-flowers.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Westringia fruticosa 04.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Westringia_fruticosa_04.jpg",
+    "author": "[User:Eug]]",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "westringia-morning-light/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Westringia fruticosa kz04.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Westringia_fruticosa_kz04.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "westringia-morning-light/04-plant.jpg"
+   }
+  ],
+  "clivia-miniata": [
+   {
+    "part": "Flowers",
+    "title": "Clivia miniata Kliwia cynobrowa 2024-01-20 Malaga 07.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Clivia_miniata_Kliwia_cynobrowa_2024-01-20_Malaga_07.jpg",
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "clivia-miniata/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Clivia miniata kz05.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Clivia_miniata_kz05.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "clivia-miniata/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Bush Lily (Clivia miniata) (32985230915).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Bush_Lily_(Clivia_miniata)_(32985230915).jpg",
+    "author": "Bernard DUPONT from FRANCE",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "clivia-miniata/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Clivia miniata-Blueten.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Clivia_miniata-Blueten.jpg",
+    "author": "Rotatebot",
+    "license": "CC BY-SA 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+    "file": "clivia-miniata/04-plant.jpg"
+   }
+  ],
+  "encelia-californica": [
+   {
+    "part": "Flowers",
+    "title": "Encelia californica (27535217585).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Encelia_californica_(27535217585).jpg",
+    "author": "Dick Culbert from Gibsons, B.C., Canada",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "file": "encelia-californica/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Encelia californica - Manhattan Beach Botanical Garden - Manhattan Beach, CA - DSC01304.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Encelia_californica_-_Manhattan_Beach_Botanical_Garden_-_Manhattan_Beach,_CA_-_DSC01304.jpg",
+    "author": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "encelia-californica/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Encelia californica head 2003-04-10.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Encelia_californica_head_2003-04-10.jpg",
+    "author": "No machine-readable author provided. Curtis Clark assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "file": "encelia-californica/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Encelia californica 173275359.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Encelia_californica_173275359.jpg",
+    "author": "dblanco",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "encelia-californica/04-plant.jpg"
+   }
+  ],
+  "carex-divulsa": [
+   {
+    "part": "Habit",
+    "title": "Carex divulsa - Leaning Pine Arboretum - DSC05830.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Carex_divulsa_-_Leaning_Pine_Arboretum_-_DSC05830.JPG",
+    "author": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "carex-divulsa/01-habit.jpg"
+   },
+   {
+    "part": "Inflorescence",
+    "title": "Carex divulsa 2 (G. Nitter).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Carex_divulsa_2_(G._Nitter).jpg",
+    "author": "Gerhard Nitter",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "carex-divulsa/02-inflorescence.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Carex divulsa — Flora Batava — Volume v18.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Carex_divulsa_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v18.jpg",
+    "author": "Jan Kops",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "carex-divulsa/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Carex divulsa inflorescens (54).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Carex_divulsa_inflorescens_(54).jpg",
+    "author": "Andrea Moro",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "carex-divulsa/04-plant.jpg"
+   }
+  ],
+  "agapanthus": [
+   {
+    "part": "Flowers",
+    "title": "Agapanthus praecox-IMG 9358.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Agapanthus_praecox-IMG_9358.jpg",
+    "author": "C T Johansson",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "agapanthus/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Agapanthus praecox-IMG 8736.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Agapanthus_praecox-IMG_8736.JPG",
+    "author": "C T Johansson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "agapanthus/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "BCBG Agapanthus Praecox 04.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:BCBG_Agapanthus_Praecox_04.jpg",
+    "author": "Craig Franklin",
+    "license": "CC BY-SA 3.0 au",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
+    "file": "agapanthus/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Agapanthus praecox Snow White. 03-08-2024 (d.j.b.).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Agapanthus_praecox_Snow_White._03-08-2024_(d.j.b.).jpg",
+    "author": "Dominicus Johannes Bergsma",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "agapanthus/04-plant.jpg"
+   }
+  ],
+  "hemerocallis": [
+   {
+    "part": "Flowers",
+    "title": "DayLily.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:DayLily.jpg",
+    "author": "Manfred Heyde",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "hemerocallis/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "2023-06-16 15 45 29 Day lily blooming along Barbara Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:2023-06-16_15_45_29_Day_lily_blooming_along_Barbara_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+    "author": "Famartin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "hemerocallis/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Daylily (Hemerocallis fulva) v2.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Daylily_(Hemerocallis_fulva)_v2.jpg",
+    "author": "en:User:Laineypaige",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "hemerocallis/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Hemerocallis fulva 2018 G1.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Hemerocallis_fulva_2018_G1.jpg",
+    "author": "George Chernilevsky",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "hemerocallis/04-plant.jpg"
+   }
+  ],
+  "zinnia-elegans": [
+   {
+    "part": "Flowers",
+    "title": "Zinnia elegans, Festival Theatre garden, Stratford, Ontario, 2025-08-04 02.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Zinnia_elegans,_Festival_Theatre_garden,_Stratford,_Ontario,_2025-08-04_02.jpg",
+    "author": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "zinnia-elegans/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Blumenbeet bunt Heidelberg.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Blumenbeet_bunt_Heidelberg.JPG",
+    "author": "4028mdk09",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "zinnia-elegans/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Zinnia elegans with Bombus 01.JPG",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Zinnia_elegans_with_Bombus_01.JPG",
+    "author": "Simon Koopmann",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "file": "zinnia-elegans/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Zinnienblüte Zinnia elegans stack15 20190722-RM-7222254.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Zinnienbl%C3%BCte_Zinnia_elegans_stack15_20190722-RM-7222254.jpg",
+    "author": "Ermell",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "zinnia-elegans/04-plant.jpg"
+   }
+  ],
+  "santolina-chamaecyparissus": [
+   {
+    "part": "Flowers",
+    "title": "Santolina chamaecyparissus, macro.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Santolina_chamaecyparissus,_macro.jpg",
+    "author": "TeKappa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "santolina-chamaecyparissus/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Gardenology.org-IMG 2696 rbgs11jan.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2696_rbgs11jan.jpg",
+    "author": "Raffi Kojian",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "santolina-chamaecyparissus/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Santolina chamaecyparissus.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Santolina_chamaecyparissus.jpg",
+    "author": "User:Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "santolina-chamaecyparissus/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Santolina chamaecyparissus 2021-09-01 9843.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Santolina_chamaecyparissus_2021-09-01_9843.jpg",
+    "author": "Salicyna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "santolina-chamaecyparissus/04-plant.jpg"
+   }
+  ],
+  "phlomis-purpurea": [
+   {
+    "part": "Flowers",
+    "title": "Phlomis purpurea purpurea - Flickr - gailhampshire.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Phlomis_purpurea_purpurea_-_Flickr_-_gailhampshire.jpg",
+    "author": "gailhampshire from Cradley, Malvern, U.K",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "file": "phlomis-purpurea/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Phlomis purpurea kz18.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Phlomis_purpurea_kz18.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "phlomis-purpurea/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Phlomispurpureapurpurea.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Phlomispurpureapurpurea.jpg",
+    "author": "Stickpen",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "phlomis-purpurea/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Phlomis purpurea.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Phlomis_purpurea.jpg",
+    "author": "Lumbar~commonswiki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "phlomis-purpurea/04-plant.jpg"
+   }
+  ],
+  "agastache-rupestris": [
+   {
+    "part": "Habit",
+    "title": "Agastache rupestre.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Agastache_rupestre.jpg",
+    "author": "Atilin",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "agastache-rupestris/01-habit.jpg"
+   },
+   {
+    "part": "Flowers",
+    "title": "Agastache rupestris1 lg.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Agastache_rupestris1_lg.jpg",
+    "author": "photo by Charlie McDonald; uploaded by Xiaphias",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "agastache-rupestris/02-flowers.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Female Broad-tailed Hummingbird Feeding on Agastache Rupestris (29236429160).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Female_Broad-tailed_Hummingbird_Feeding_on_Agastache_Rupestris_(29236429160).jpg",
+    "author": "USFWS Mountain Prairie",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "agastache-rupestris/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Female Broad-tailed Hummingbird on Agastache Rupestris (29414750952).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Female_Broad-tailed_Hummingbird_on_Agastache_Rupestris_(29414750952).jpg",
+    "author": "USFWS Mountain Prairie",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "agastache-rupestris/04-plant.jpg"
+   }
+  ],
+  "eryngium-amethystinum": [
+   {
+    "part": "Flowers",
+    "title": "Eryngium amethystinum Mikołajek ametystowy 2020-07-28 02.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eryngium_amethystinum_Miko%C5%82ajek_ametystowy_2020-07-28_02.jpg",
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "eryngium-amethystinum/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Eryngium July 2011-1.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eryngium_July_2011-1.jpg",
+    "author": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "eryngium-amethystinum/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Eryngium amethystinum Fraveggio.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eryngium_amethystinum_Fraveggio.jpg",
+    "author": "Syrio",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "eryngium-amethystinum/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Eryngium amethystinum Mikołajek ametystowy 2020-07-28 01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eryngium_amethystinum_Miko%C5%82ajek_ametystowy_2020-07-28_01.jpg",
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "eryngium-amethystinum/04-plant.jpg"
+   }
+  ],
+  "dahlia": [
+   {
+    "part": "Flowers",
+    "title": "20261024.Dahliengarten (Großer Garten).-019.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:20261024.Dahliengarten_(Gro%C3%9Fer_Garten).-019.jpg",
+    "author": "Bybbisch94",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "dahlia/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "20261014.Dahliengarten (Großer Garten).-024.1.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:20261014.Dahliengarten_(Gro%C3%9Fer_Garten).-024.1.jpg",
+    "author": "Bybbisch94",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "dahlia/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": ",00 0904 Dahlia × pinnata.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:,00_0904_Dahlia_%C3%97_pinnata.jpg",
+    "author": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "dahlia/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "00 4793 Großfiedrige Dahlia (Dahli pinnata).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:00_4793_Gro%C3%9Ffiedrige_Dahlia_(Dahli_pinnata).jpg",
+    "author": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "dahlia/04-plant.jpg"
+   }
+  ],
+  "limonium-perezii": [
+   {
+    "part": "Flowers",
+    "title": "Limonium perezii 7zz.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Limonium_perezii_7zz.jpg",
+    "author": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "limonium-perezii/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Giant Statice (Limonium perezii) (32376587148).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Giant_Statice_(Limonium_perezii)_(32376587148).jpg",
+    "author": "Bernard DUPONT from FRANCE",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "file": "limonium-perezii/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Limonium perezii 2.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Limonium_perezii_2.jpg",
+    "author": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "limonium-perezii/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Limonium perezii Zatrwian Pereza 2020-07-10 01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Limonium_perezii_Zatrwian_Pereza_2020-07-10_01.jpg",
+    "author": "Agnieszka Kwiecień, Nova",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "limonium-perezii/04-plant.jpg"
+   }
+  ],
+  "tulbaghia-violacea": [
+   {
+    "part": "Flowers",
+    "title": "Tulbaghia violacea in Botanischer Garten Muenster (2).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tulbaghia_violacea_in_Botanischer_Garten_Muenster_(2).jpg",
+    "author": "Krzysztof Golik",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "file": "tulbaghia-violacea/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Tulbaghia violacea-Ail d'Afrique-20210705.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tulbaghia_violacea-Ail_d%27Afrique-20210705.jpg",
+    "author": "Daniel VILLAFRUELA",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "tulbaghia-violacea/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Tulbaghia violacea kz01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Tulbaghia_violacea_kz01.jpg",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "tulbaghia-violacea/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Photographie de tulbaghia violacea.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Photographie_de_tulbaghia_violacea.jpg",
+    "author": "EmmanuelVln",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "tulbaghia-violacea/04-plant.jpg"
+   }
+  ],
+  "lobularia-maritima": [
+   {
+    "part": "Flowers",
+    "title": "Alyssum maritimum (Lobularia maritima).jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Alyssum_maritimum_(Lobularia_maritima).jpg",
+    "author": "PinguinoH21",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "file": "lobularia-maritima/01-flowers.jpg"
+   },
+   {
+    "part": "Habit",
+    "title": "Caps blancs pel Bellveret, Xàtiva.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Caps_blancs_pel_Bellveret,_X%C3%A0tiva.jpg",
+    "author": "Joanbanjo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "lobularia-maritima/02-habit.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Lobularia maritima, Sète 01.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lobularia_maritima,_S%C3%A8te_01.jpg",
+    "author": "Christian Ferrer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "lobularia-maritima/03-plant.jpg"
+   },
+   {
+    "part": "Plant",
+    "title": "Lobularia maritima RF.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Lobularia_maritima_RF.jpg",
+    "author": "Robert Flogaus-Faust",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "file": "lobularia-maritima/04-plant.jpg"
    }
   ]
  }
